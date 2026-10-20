@@ -43129,6 +43129,8 @@
 08/12/2020;20/02/2002;18,0;Masculino;Parda;Cláudio;Cláudio;V225;PASSAGEIRO ACID TRANS
 08/12/2020;19/02/1953;67,0;Masculino;Branca;Cajuri;Viçosa;V244;CONDUTOR ACID TRANS
 08/12/2020;24/11/1990;30,0;Masculino;Parda;Janaúba;Montes Claros;V299;MOTOCICLISTA ACID TRANS NE
+08/12/2020;08/07/1950;70,0;Feminino;Branca;Volta Grande;Volta Grande;V439;OCUPANTE NE ACID TRANS
+08/12/2020;23/11/1973;47,0;Masculino;Parda;Volta Grande;Volta Grande;V694;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 09/12/2020;08/11/1970;50,0;Masculino;Parda;Caeté;Caeté;V091;ACID N-TRANS NE
 09/12/2020;03/04/1995;25,0;Masculino;Branca;Formiga;Formiga;V294;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 09/12/2020;15/11/2000;20,0;Masculino;Branca;Manhuaçu;Manhuaçu;V299;MOTOCICLISTA ACID TRANS NE
@@ -51819,6 +51821,7 @@
 12/08/2023;30/01/1977;46,0;Masculino;Parda;Bocaiúva;Belo Horizonte;V289;MOTOCICLISTA NE ACID TRANS
 12/08/2023;16/01/1985;38,0;Masculino;Parda;Igaratinga;Pará de Minas;V298;MOTOCICLISTA OUTR ACID TRANSP ESPEC
 12/08/2023;01/08/1982;41,0;Feminino;Preta;Santana do Manhuaçu;Manhuaçu;V299;MOTOCICLISTA ACID TRANS NE
+12/08/2023;18/08/1962;60,0;Masculino;Parda;Lagoa dos Patos;Coração de Jesus;V800;ACID TRANS S/COLIS
 13/08/2023;08/03/1959;64,0;Masculino;Parda;Sete Lagoas;Sete Lagoas;V099;ACID TRANSP NE
 13/08/2023;05/07/1963;60,0;Masculino;Branca;Muriaé;Muriaé;V124;CONDUTOR EM ACID TRANS
 13/08/2023;22/05/1975;48,0;Masculino;Branca;Coronel Fabriciano;Ipatinga;V139;CICLISTA NE EM ACID TRANS
@@ -52377,6 +52380,7 @@
 07/10/2023;28/10/1963;59,0;Masculino;Branca;São João Del Rei;Barbacena;V039;ACID NE SE TRANS OU NAO-TRANS
 07/10/2023;04/07/1981;42,0;Masculino;Branca;Contagem;Belo Horizonte;V234;CONDUTOR ACID TRANS
 07/10/2023;23/10/2002;20,0;Masculino;Parda;Resplendor;;V239;MOTOCICLISTA NE ACID TRANS
+07/10/2023;22/04/1997;26,0;Masculino;Parda;Além Paraíba;Estrela Dalva;V289;MOTOCICLISTA NE ACID TRANS
 07/10/2023;28/03/1991;32,0;Masculino;Parda;Japonvar;Lontra;V289;MOTOCICLISTA NE ACID TRANS
 07/10/2023;28/10/1965;57,0;Masculino;Parda;Coroaci;Coroaci;V299;MOTOCICLISTA ACID TRANS NE
 07/10/2023;25/12/1967;55,0;Masculino;Parda;Guanhães;Guanhães;V299;MOTOCICLISTA ACID TRANS NE
@@ -53372,8 +53376,8 @@
 21/01/2024;28/04/2002;21,0;Masculino;Parda;Belo Horizonte;Belo Horizonte;V244;CONDUTOR ACID TRANS
 21/01/2024;23/02/1989;34,0;Masculino;Branca;Monte Santo de Minas;Monte Santo de Minas;V274;CONDUTOR ACID TRANS
 21/01/2024;18/04/1981;42,0;Masculino;Parda;Lajinha;Lajinha;V299;MOTOCICLISTA ACID TRANS NE
-21/01/2024;05/10/1956;67,0;Feminino;Parda;Itabirito;;V439;OCUPANTE NE ACID TRANS
 21/01/2024;22/12/1938;85,0;Masculino;Branca;Itabirito;;V439;OCUPANTE NE ACID TRANS
+21/01/2024;05/10/1956;67,0;Feminino;Parda;Itabirito;;V439;OCUPANTE NE ACID TRANS
 21/01/2024;17/11/1988;35,0;Masculino;Branca;Iturama;Salinas;V445;CONDUTOR ACID TRANS
 21/01/2024;22/07/1991;32,0;Feminino;Branca;Iturama;Salinas;V446;PASSAGEIRO ACID TRANS
 21/01/2024;16/05/2022;1,0;Masculino;Branca;Iturama;Salinas;V446;PASSAGEIRO ACID TRANS
@@ -53758,8 +53762,8 @@
 07/03/2024;01/12/1974;49,0;Masculino;Branca;Itaobim;Itaobim;V299;MOTOCICLISTA ACID TRANS NE
 07/03/2024;22/07/1987;36,0;Masculino;Parda;Formiga;Divinópolis;V499;OCUPANTE ACID TRANS NE
 07/03/2024;20/05/1969;54,0;Masculino;Branca;Uberaba;Diamantina;V699;OCUPANTE ACID TRANS NE
-07/03/2024;30/10/1992;31,0;Masculino;Branca;Pouso Alegre;Pouso Alegre;V892;ACID TRANS VEIC MOT NE
 07/03/2024;29/05/1972;51,0;Masculino;Branca;Senador Firmino;Ubá;V892;ACID TRANS VEIC MOT NE
+07/03/2024;30/10/1992;31,0;Masculino;Branca;Pouso Alegre;Pouso Alegre;V892;ACID TRANS VEIC MOT NE
 07/03/2024;31/10/2000;23,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V99;ACID TRANSP NE
 08/03/2024;23/09/1959;64,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V041;ACID TRANS
 08/03/2024;09/04/1984;39,0;Masculino;Branca;Pará de Minas;Oliveira;V499;OCUPANTE ACID TRANS NE
@@ -54485,7 +54489,6 @@
 22/05/2024;01/04/1997;27,0;Masculino;Parda;Felixlândia;Felixlândia;V099;ACID TRANSP NE
 22/05/2024;10/05/1946;78,0;Feminino;Parda;Betim;Betim;V099;ACID TRANSP NE
 22/05/2024;05/12/1997;26,0;Masculino;Branca;Belo Horizonte;Belo Horizonte;V244;CONDUTOR ACID TRANS
-22/05/2024;17/08/1995;28,0;Masculino;Parda;Belo Horizonte;Belo Horizonte;V245;PASSAGEIRO ACID TRANS
 22/05/2024;02/06/2000;23,0;Masculino;Branca;Lagoa Santa;Vespasiano;V299;MOTOCICLISTA ACID TRANS NE
 23/05/2024;06/12/1969;54,0;Masculino;Branca;Uberaba;Uberaba;V234;CONDUTOR ACID TRANS
 23/05/2024;07/03/1995;29,0;Masculino;Branca;Paraisópolis;Itajubá;V239;MOTOCICLISTA NE ACID TRANS
@@ -55785,8 +55788,8 @@
 25/09/2024;20/08/1959;65,0;Masculino;Branca;Campo Belo;Campo Belo;V499;OCUPANTE ACID TRANS NE
 25/09/2024;24/09/1962;62,0;Masculino;Parda;Araguari;Uberlândia;V499;OCUPANTE ACID TRANS NE
 25/09/2024;20/07/1982;42,0;Masculino;;Riacho dos Machados;Montes Claros;V499;OCUPANTE ACID TRANS NE
-25/09/2024;28/10/1985;38,0;Masculino;Branca;Pouso Alegre;Pouso Alegre;V892;ACID TRANS VEIC MOT NE
 25/09/2024;20/05/1987;37,0;Masculino;Branca;Pouso Alegre;Pouso Alegre;V892;ACID TRANS VEIC MOT NE
+25/09/2024;28/10/1985;38,0;Masculino;Branca;Pouso Alegre;Pouso Alegre;V892;ACID TRANS VEIC MOT NE
 25/09/2024;22/12/1963;60,0;Masculino;Parda;Ribeirão das Neves;São Gonçalo do Abaeté;V99;ACID TRANSP NE
 26/09/2024;27/06/1989;35,0;Feminino;Parda;Governador Valadares;Governador Valadares;V174;CONDUTOR EM ACID TRANS
 26/09/2024;22/02/1994;30,0;Masculino;Parda;Bonito de Minas;Montes Claros;V239;MOTOCICLISTA NE ACID TRANS
@@ -55996,8 +55999,8 @@
 12/10/2024;08/10/1977;47,0;Masculino;Preta;Ibirité;Contagem;V189;CICLISTA NE EM ACID TRANS
 12/10/2024;23/03/2001;23,0;Masculino;Parda;Engenheiro Caldas;Governador Valadares;V204;CONDUTOR ACID TRANS
 12/10/2024;13/10/2002;21,0;Masculino;Parda;Manga;Manga;V239;MOTOCICLISTA NE ACID TRANS
-12/10/2024;07/12/2019;4,0;Masculino;Parda;Araporã;;V275;PASSAGEIRO ACID TRANS
 12/10/2024;23/05/1992;32,0;Feminino;Branca;Araporã;;V275;PASSAGEIRO ACID TRANS
+12/10/2024;07/12/2019;4,0;Masculino;Parda;Araporã;;V275;PASSAGEIRO ACID TRANS
 12/10/2024;26/07/1976;48,0;Masculino;Parda;Patos de Minas;Patos de Minas;V299;MOTOCICLISTA ACID TRANS NE
 12/10/2024;02/06/1990;34,0;Masculino;Parda;Frei Inocêncio;Governador Valadares;V445;CONDUTOR ACID TRANS
 12/10/2024;02/06/1993;31,0;Masculino;Parda;Frei Inocêncio;Governador Valadares;V446;PASSAGEIRO ACID TRANS
@@ -56804,13 +56807,13 @@
 02/01/2025;08/08/1975;49,0;Masculino;Parda;Santa Juliana;Santa Juliana;V99;ACID TRANSP NE
 03/01/2025;05/03/2004;20,0;Masculino;Preta;Belo Horizonte;Belo Horizonte;V279;MOTOCICLISTA NE ACID TRANS
 03/01/2025;07/06/1997;27,0;Masculino;Parda;Lima Duarte;Juiz de Fora;V279;MOTOCICLISTA NE ACID TRANS
+04/01/2025;25/12/1970;54,0;Masculino;Parda;Engenheiro Caldas;Governador Valadares;V093;ACID TRANS NE
 04/01/2025;13/08/1985;39,0;Masculino;Parda;Pará de Minas;Pará de Minas;V093;ACID TRANS NE
 04/01/2025;25/09/1986;38,0;Masculino;Preta;Uberlândia;Uberlândia;V299;MOTOCICLISTA ACID TRANS NE
 04/01/2025;16/11/1980;44,0;Feminino;Parda;Montes Claros;Montes Claros;V499;OCUPANTE ACID TRANS NE
 04/01/2025;12/07/1938;86,0;Feminino;Parda;Montes Claros;Montes Claros;V499;OCUPANTE ACID TRANS NE
 04/01/2025;28/08/1983;41,0;Masculino;Parda;Montes Claros;Montes Claros;V499;OCUPANTE ACID TRANS NE
 04/01/2025;09/07/1979;45,0;Masculino;Parda;São José da Lapa;Luz;V740;CONDUTOR ACID N-TRANS
-04/01/2025;25/12/1970;54,0;Masculino;Parda;Engenheiro Caldas;Governador Valadares;V893;ACID TRANS VEIC N-MOT NE
 05/01/2025;29/02/1952;72,0;Masculino;Parda;Sarzedo;Belo Horizonte;V031;ACID TRANS
 05/01/2025;29/05/1947;77,0;Feminino;Parda;Congonhas;Congonhas;V039;ACID NE SE TRANS OU NAO-TRANS
 05/01/2025;10/05/1970;54,0;Feminino;Branca;Uberaba;Uberaba;V041;ACID TRANS
@@ -57703,6 +57706,7 @@
 19/04/2025;23/11/1986;38,0;Masculino;Parda;Uberaba;Uberaba;V274;CONDUTOR ACID TRANS
 19/04/2025;08/03/1983;42,0;Masculino;Preta;Juiz de Fora;Juiz de Fora;V274;CONDUTOR ACID TRANS
 19/04/2025;05/04/1988;37,0;Masculino;Preta;Araguari;Araguari;V294;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
+19/04/2025;31/08/2006;18,0;Masculino;Parda;Itamarandiba;Aricanduva;V299;MOTOCICLISTA ACID TRANS NE
 19/04/2025;05/11/2005;19,0;Masculino;Parda;Capelinha;Aricanduva;V299;MOTOCICLISTA ACID TRANS NE
 19/04/2025;15/06/1986;38,0;Masculino;Parda;Antônio Dias;Ipatinga;V299;MOTOCICLISTA ACID TRANS NE
 19/04/2025;01/12/1960;64,0;Masculino;Branca;Betim;Betim;V299;MOTOCICLISTA ACID TRANS NE
@@ -57938,8 +57942,8 @@
 13/05/2025;02/08/1977;47,0;Masculino;Parda;Uberlândia;Grão Mogol;V546;PASSAGEIRO ACID TRANS
 13/05/2025;04/04/1955;70,0;Masculino;Branca;Monte Carmelo;Grão Mogol;V546;PASSAGEIRO ACID TRANS
 13/05/2025;21/03/2020;5,0;Masculino;Parda;Nova Ponte;Grão Mogol;V546;PASSAGEIRO ACID TRANS
-13/05/2025;27/09/1958;66,0;Masculino;Branca;Patos de Minas;;V892;ACID TRANS VEIC MOT NE
 13/05/2025;27/12/1997;27,0;Masculino;Parda;Brasília de Minas;Turmalina;V892;ACID TRANS VEIC MOT NE
+13/05/2025;27/09/1958;66,0;Masculino;Branca;Patos de Minas;;V892;ACID TRANS VEIC MOT NE
 13/05/2025;21/04/1999;26,0;Masculino;Branca;Serrania;Alfenas;V99;ACID TRANSP NE
 14/05/2025;12/04/1935;90,0;Masculino;Branca;Governador Valadares;Governador Valadares;V021;ACID TRANS
 14/05/2025;04/01/1999;26,0;Masculino;Parda;Vespasiano;Vespasiano;V099;ACID TRANSP NE
@@ -58490,8 +58494,8 @@
 05/07/2025;28/05/1991;34,0;Masculino;Parda;Patos de Minas;Patos de Minas;V499;OCUPANTE ACID TRANS NE
 05/07/2025;19/11/2008;16,0;Feminino;Branca;Lagoa Formosa;Patos de Minas;V499;OCUPANTE ACID TRANS NE
 05/07/2025;05/03/1977;48,0;Masculino;Parda;Pirapora;;V575;CONDUTOR ACID TRANS
-05/07/2025;22/12/1959;65,0;Masculino;Branca;Governador Valadares;;V892;ACID TRANS VEIC MOT NE
 05/07/2025;26/04/1989;36,0;Feminino;Branca;Poços de Caldas;;V892;ACID TRANS VEIC MOT NE
+05/07/2025;22/12/1959;65,0;Masculino;Branca;Governador Valadares;;V892;ACID TRANS VEIC MOT NE
 05/07/2025;13/03/1974;51,0;Masculino;Preta;Juiz de Fora;Juiz de Fora;V899;ACID VEIC NE
 06/07/2025;12/04/1966;59,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V234;CONDUTOR ACID TRANS
 06/07/2025;11/11/1989;35,0;Masculino;Branca;Iapu;Ipatinga;V299;MOTOCICLISTA ACID TRANS NE
@@ -58516,8 +58520,8 @@
 07/07/2025;23/09/1983;41,0;Masculino;Branca;Jaíba;;V685;CONDUTOR ACID TRANS
 07/07/2025;05/12/1996;28,0;Masculino;Parda;Ibirité;Itambacuri;V685;CONDUTOR ACID TRANS
 07/07/2025;08/04/1983;42,0;Masculino;Parda;Ubaí;Icaraí de Minas;V899;ACID VEIC NE
-08/07/2025;24/12/1945;79,0;Feminino;Branca;Belo Horizonte;Belo Horizonte;V031;ACID TRANS
 08/07/2025;08/08/1973;51,0;Masculino;Parda;Januária;;V031;ACID TRANS
+08/07/2025;24/12/1945;79,0;Feminino;Branca;Belo Horizonte;Belo Horizonte;V031;ACID TRANS
 08/07/2025;11/08/1993;31,0;Masculino;Preta;Uberaba;Uberaba;V234;CONDUTOR ACID TRANS
 08/07/2025;06/02/1983;42,0;Masculino;Branca;Bandeira do Sul;Alfenas;V239;MOTOCICLISTA NE ACID TRANS
 08/07/2025;12/12/1984;40,0;Feminino;Branca;Inhapim;Caratinga;V299;MOTOCICLISTA ACID TRANS NE
@@ -58797,6 +58801,7 @@
 03/08/2025;04/04/1979;46,0;Masculino;Branca;Lajinha;;V279;MOTOCICLISTA NE ACID TRANS
 03/08/2025;11/01/1995;30,0;Masculino;Parda;Contagem;Contagem;V280;CONDUTOR ACID N-TRANS
 03/08/2025;23/03/1971;54,0;Masculino;Branca;Uberaba;Uberaba;V284;CONDUTOR ACID TRANS
+03/08/2025;11/05/1984;41,0;Masculino;Parda;Divino das Laranjeiras;Governador Valadares;V294;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 03/08/2025;08/10/2002;22,0;Masculino;Branca;Contagem;Belo Horizonte;V299;MOTOCICLISTA ACID TRANS NE
 03/08/2025;08/12/1983;41,0;Masculino;Parda;Muzambinho;Guaxupé;V425;CONDUTOR ACID TRANS
 03/08/2025;01/11/2016;8,0;Masculino;Parda;Muzambinho;Guaxupé;V426;PASSAGEIRO ACID TRANS
@@ -58808,7 +58813,6 @@
 03/08/2025;21/12/1984;40,0;Feminino;Parda;Três Marias;Três Marias;V499;OCUPANTE ACID TRANS NE
 03/08/2025;23/06/1961;64,0;Masculino;Branca;Campos Gerais;Três Pontas;V800;ACID TRANS S/COLIS
 03/08/2025;28/12/1986;38,0;Masculino;Branca;Barão de Cocais;Itabirito;V874;COLIS ENTRE AUTOMOVEL E VEIC TRANSP PESADO
-03/08/2025;11/05/1984;41,0;Masculino;Parda;Divino das Laranjeiras;Governador Valadares;V892;ACID TRANS VEIC MOT NE
 03/08/2025;23/06/1996;29,0;Masculino;Parda;Jeceaba;Jeceaba;V892;ACID TRANS VEIC MOT NE
 03/08/2025;29/05/1987;38,0;Feminino;Branca;Pompéu;Pompéu;V892;ACID TRANS VEIC MOT NE
 03/08/2025;04/02/1963;62,0;Masculino;Branca;Ubá;Ubá;V892;ACID TRANS VEIC MOT NE
@@ -58874,8 +58878,8 @@
 09/08/2025;17/01/1999;26,0;Feminino;Branca;Recreio;Laranjal;V495;PASSAGEIRO COLIS OUTR VEIC NE MOT ACID TRANS
 09/08/2025;05/07/1967;58,0;Feminino;Parda;Ipanema;Manhuaçu;V499;OCUPANTE ACID TRANS NE
 09/08/2025;26/08/1978;46,0;Masculino;Parda;Perdões;Carmópolis de Minas;V675;CONDUTOR ACID TRANS
+09/08/2025;04/08/2021;4,0;Masculino;Branca;Nova Ponte;Uberaba;V731;PASSAGEIRO ACID N-TRANS
 09/08/2025;12/05/1998;27,0;Feminino;Branca;Nova Ponte;Uberaba;V735;CONDUTOR ACID TRANS
-09/08/2025;04/08/2021;4,0;Masculino;Branca;Nova Ponte;Uberaba;V735;CONDUTOR ACID TRANS
 09/08/2025;29/09/1960;64,0;Masculino;Branca;Nova Ponte;Uberaba;V735;CONDUTOR ACID TRANS
 09/08/2025;12/01/1966;59,0;Masculino;Parda;Betim;Betim;V892;ACID TRANS VEIC MOT NE
 10/08/2025;30/04/1939;86,0;Masculino;Preta;Contagem;Betim;V092;ACID TRANS ENVOLV OUTR VEIC E NE A MOTOR
@@ -59043,8 +59047,8 @@
 24/08/2025;19/02/2007;18,0;Feminino;Parda;Santa Vitória;Santa Vitória;V245;PASSAGEIRO ACID TRANS
 24/08/2025;23/05/1971;54,0;Masculino;Branca;Bandeira do Sul;Poços de Caldas;V249;MOTOCICLISTA NE ACID TRANS
 24/08/2025;13/10/1983;41,0;Masculino;Branca;Betim;Betim;V289;MOTOCICLISTA NE ACID TRANS
-24/08/2025;02/06/2000;25,0;Masculino;Branca;Paracatu;;V299;MOTOCICLISTA ACID TRANS NE
 24/08/2025;23/07/1999;26,0;Masculino;Branca;Uberaba;;V299;MOTOCICLISTA ACID TRANS NE
+24/08/2025;02/06/2000;25,0;Masculino;Branca;Paracatu;;V299;MOTOCICLISTA ACID TRANS NE
 24/08/2025;17/05/1993;32,0;Masculino;Preta;Montes Claros;Montes Claros;V299;MOTOCICLISTA ACID TRANS NE
 24/08/2025;21/11/1942;82,0;Feminino;Branca;Santo Antônio do Monte;Divinópolis;V439;OCUPANTE NE ACID TRANS
 24/08/2025;15/06/2001;24,0;Masculino;Branca;Nova Serrana;Divinópolis;V439;OCUPANTE NE ACID TRANS
@@ -59430,6 +59434,7 @@
 01/10/2025;26/06/1961;64,0;Masculino;Parda;Buritizeiro;Buritizeiro;V892;ACID TRANS VEIC MOT NE
 01/10/2025;31/08/1954;71,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V899;ACID VEIC NE
 02/10/2025;22/11/2011;13,0;Masculino;Parda;Abaeté;Abaeté;V139;CICLISTA NE EM ACID TRANS
+02/10/2025;23/09/1999;26,0;Masculino;Parda;Ribeirão das Neves;Ribeirão das Neves;V274;CONDUTOR ACID TRANS
 02/10/2025;21/01/1950;75,0;Masculino;Branca;Congonhas;Congonhas;V296;MOTOCICL NE COLIS OUT VEIC NE MOT ACID TRANS
 02/10/2025;30/12/1966;58,0;Masculino;Parda;Uberlândia;Uberlândia;V299;MOTOCICLISTA ACID TRANS NE
 02/10/2025;10/06/1990;35,0;Masculino;Parda;Itatiaiuçu;Três Marias;V449;OCUPANTE NE ACID TRANS
@@ -59438,8 +59443,8 @@
 02/10/2025;30/10/1990;34,0;Masculino;Parda;Prudente de Morais;Três Marias;V545;CONDUTOR ACID TRANS
 02/10/2025;08/12/1972;52,0;Masculino;Parda;Conceição das Alagoas;Uberaba;V878;OUTR ACID TRANSP ESPEC VEIC MOTOR S/COLIS
 02/10/2025;13/01/2004;21,0;Masculino;Parda;Manhuaçu;;V899;ACID VEIC NE
-03/10/2025;18/12/1953;71,0;Masculino;Branca;Coroaci;Governador Valadares;V021;ACID TRANS
 03/10/2025;11/09/1950;75,0;Masculino;Parda;Uberaba;Uberaba;V021;ACID TRANS
+03/10/2025;18/12/1953;71,0;Masculino;Branca;Coroaci;Governador Valadares;V021;ACID TRANS
 03/10/2025;22/06/1965;60,0;Feminino;Parda;Araxá;Araxá;V021;ACID TRANS
 03/10/2025;16/12/1998;26,0;Masculino;Branca;Belo Horizonte;Santa Luzia;V224;CONDUTOR ACID TRANS
 03/10/2025;12/05/2006;19,0;Masculino;Branca;São João Del Rei;São João Del Rei;V224;CONDUTOR ACID TRANS
@@ -59508,6 +59513,7 @@
 07/10/2025;12/05/1969;56,0;Masculino;Parda;Três Marias;Três Marias;V299;MOTOCICLISTA ACID TRANS NE
 07/10/2025;07/09/1959;66,0;Masculino;Branca;Bandeira do Sul;Poços de Caldas;V435;CONDUTOR ACID TRANS
 07/10/2025;21/09/1990;35,0;Masculino;Branca;Serrania;Alfenas;V489;OCUPANTE NE ACID TRANS
+07/10/2025;24/12/1969;55,0;Masculino;Parda;São João do Paraíso;São João do Paraíso;V499;OCUPANTE ACID TRANS NE
 07/10/2025;23/01/1980;45,0;Masculino;Branca;São Joaquim de Bicas;Joaquim Felício;V645;CONDUTOR ACID TRANS
 07/10/2025;23/04/2005;20,0;Masculino;Parda;Betim;Betim;V892;ACID TRANS VEIC MOT NE
 07/10/2025;27/01/1990;35,0;Masculino;Parda;Governador Valadares;Virginópolis;V99;ACID TRANSP NE
@@ -59623,9 +59629,9 @@
 17/10/2025;22/03/1979;46,0;Feminino;Parda;Jaíba;;V686;PASSAGEIRO ACID TRANS
 17/10/2025;01/07/1971;54,0;Masculino;Parda;Jaíba;;V686;PASSAGEIRO ACID TRANS
 17/10/2025;28/08/1970;55,0;Masculino;Parda;Porteirinha;;V686;PASSAGEIRO ACID TRANS
+17/10/2025;09/05/1980;45,0;Feminino;Parda;Manga;;V786;PASSAGEIRO ACID TRANS
 17/10/2025;21/01/1973;52,0;Feminino;Parda;Porteirinha;;V786;PASSAGEIRO ACID TRANS
 17/10/2025;16/03/1978;47,0;Feminino;Parda;Pai Pedro;;V786;PASSAGEIRO ACID TRANS
-17/10/2025;09/05/1980;45,0;Feminino;Parda;Manga;;V786;PASSAGEIRO ACID TRANS
 18/10/2025;20/02/1940;85,0;Masculino;Branca;Viçosa;Viçosa;V021;ACID TRANS
 18/10/2025;;;Masculino;Parda;;Juiz de Fora;V059;ACID NE SE TRANS OU NAO-TRANS
 18/10/2025;29/01/1987;38,0;Feminino;Parda;Itajubá;Itajubá;V093;ACID TRANS NE
@@ -59692,8 +59698,8 @@
 23/10/2025;17/08/2025;0,0;Feminino;Parda;Padre Carvalho;Montes Claros;V499;OCUPANTE ACID TRANS NE
 24/10/2025;31/10/1967;57,0;Masculino;Branca;Pará de Minas;Betim;V239;MOTOCICLISTA NE ACID TRANS
 24/10/2025;20/12/1997;27,0;Masculino;Preta;Juiz de Fora;Juiz de Fora;V274;CONDUTOR ACID TRANS
-24/10/2025;21/01/1991;34,0;Masculino;Parda;Brasília de Minas;;V892;ACID TRANS VEIC MOT NE
 24/10/2025;25/07/2004;21,0;Masculino;Branca;Betim;Betim;V892;ACID TRANS VEIC MOT NE
+24/10/2025;21/01/1991;34,0;Masculino;Parda;Brasília de Minas;;V892;ACID TRANS VEIC MOT NE
 24/10/2025;04/07/1968;57,0;Masculino;Parda;Morada Nova de Minas;Morada Nova de Minas;V892;ACID TRANS VEIC MOT NE
 25/10/2025;16/07/1952;73,0;Masculino;Preta;Ibitiúra de Minas;;V031;ACID TRANS
 25/10/2025;03/07/1955;70,0;Feminino;Branca;Conselheiro Lafaiete;Conselheiro Lafaiete;V092;ACID TRANS ENVOLV OUTR VEIC E NE A MOTOR
@@ -59757,6 +59763,7 @@
 30/10/2025;05/02/1975;50,0;Masculino;Parda;Betim;Belo Horizonte;V244;CONDUTOR ACID TRANS
 30/10/2025;29/01/1976;49,0;Feminino;Parda;Ipatinga;Ipatinga;V244;CONDUTOR ACID TRANS
 30/10/2025;09/11/1974;50,0;Masculino;Parda;Sete Lagoas;Sete Lagoas;V274;CONDUTOR ACID TRANS
+30/10/2025;14/02/1978;47,0;Masculino;Parda;Monsenhor Paulo;Camanducaia;V644;PESSOA AO SUBIR OU DESCER DO VEIC
 30/10/2025;03/05/2000;25,0;Masculino;Branca;Uberlândia;Formiga;V675;CONDUTOR ACID TRANS
 30/10/2025;12/06/1988;37,0;Masculino;Parda;Juiz de Fora;Juiz de Fora;V680;CONDUTOR ACID N-TRANS
 30/10/2025;20/08/1956;69,0;Masculino;Branca;Itaúna;Divinópolis;V899;ACID VEIC NE
@@ -59891,9 +59898,11 @@
 14/11/2025;04/01/1947;78,0;Masculino;Parda;Curvelo;Curvelo;V149;CICLISTA NE EM ACID TRANS
 14/11/2025;26/03/1954;71,0;Masculino;Branca;Pimenta;Pimenta;V244;CONDUTOR ACID TRANS
 14/11/2025;28/11/1983;41,0;Masculino;Parda;Cipotânea;Alto Rio Doce;V299;MOTOCICLISTA ACID TRANS NE
+14/11/2025;09/11/1969;56,0;Masculino;Branca;Carmo do Rio Claro;Carmo do Rio Claro;V435;CONDUTOR ACID TRANS
 14/11/2025;02/04/1958;67,0;Feminino;Branca;Ibiraci;;V499;OCUPANTE ACID TRANS NE
 14/11/2025;16/07/1995;30,0;Masculino;Branca;Porteirinha;Buenópolis;V747;PESSOA VIAJANDO EXT VEIC ACID TRANS
 14/11/2025;07/11/2010;15,0;Masculino;;Tarumirim;Tarumirim;V899;ACID VEIC NE
+15/11/2025;06/12/1968;56,0;Feminino;Parda;Unaí;;V031;ACID TRANS
 15/11/2025;11/12/1954;70,0;Masculino;Branca;Ilicínea;Ilicínea;V031;ACID TRANS
 15/11/2025;;;Masculino;Parda;;Governador Valadares;V091;ACID N-TRANS NE
 15/11/2025;20/01/1985;40,0;Masculino;Parda;Três Pontas;Três Pontas;V093;ACID TRANS NE
@@ -59939,6 +59948,7 @@
 18/11/2025;20/05/1985;40,0;Masculino;Branca;Fervedouro;Fervedouro;V229;MOTOCICLISTA NE ACID TRANS
 18/11/2025;11/04/1982;43,0;Feminino;Parda;Lagoa da Prata;Lagoa da Prata;V244;CONDUTOR ACID TRANS
 18/11/2025;19/02/2007;18,0;Masculino;Parda;Capelinha;Diamantina;V299;MOTOCICLISTA ACID TRANS NE
+18/11/2025;22/10/2001;24,0;Masculino;Branca;Carmo do Rio Claro;Carmo do Rio Claro;V445;CONDUTOR ACID TRANS
 18/11/2025;07/12/1964;60,0;Masculino;Parda;Dom Bosco;Unaí;V445;CONDUTOR ACID TRANS
 19/11/2025;06/10/1992;33,0;Masculino;Parda;Taiobeiras;Taiobeiras;V249;MOTOCICLISTA NE ACID TRANS
 19/11/2025;03/04/2006;19,0;Masculino;Parda;Manhuaçu;Luisburgo;V299;MOTOCICLISTA ACID TRANS NE
@@ -60008,6 +60018,7 @@
 24/11/2025;18/07/1953;72,0;Feminino;Parda;Juiz de Fora;Juiz de Fora;V011;ACID TRANS
 24/11/2025;07/12/2005;19,0;Masculino;Branca;São João do Paraíso;Taiobeiras;V234;CONDUTOR ACID TRANS
 24/11/2025;27/07/1984;41,0;Masculino;Parda;Governador Valadares;Dom Cavati;V234;CONDUTOR ACID TRANS
+24/11/2025;03/08/1998;27,0;Masculino;Branca;Carrancas;Itutinga;V499;OCUPANTE ACID TRANS NE
 24/11/2025;18/05/1971;54,0;Masculino;Branca;Santa Rosa da Serra;Araxá;V499;OCUPANTE ACID TRANS NE
 24/11/2025;07/08/1975;50,0;Masculino;Branca;Capinópolis;Ituiutaba;V635;CONDUTOR ACID TRANS
 24/11/2025;28/06/1961;64,0;Feminino;Parda;Barbacena;Mercês;V685;CONDUTOR ACID TRANS
@@ -60024,6 +60035,7 @@
 26/11/2025;01/03/1961;64,0;Feminino;Parda;Buritis;Serro;V892;ACID TRANS VEIC MOT NE
 26/11/2025;01/05/2006;19,0;Masculino;Parda;Santo Antônio do Grama;Ponte Nova;V892;ACID TRANS VEIC MOT NE
 27/11/2025;28/05/1946;79,0;Feminino;Branca;Passos;Passos;V029;ACID NE SE TRANS OU NAO-TRANS
+27/11/2025;21/02/1971;54,0;Masculino;Preta;Governador Valadares;Governador Valadares;V093;ACID TRANS NE
 27/11/2025;06/05/1963;62,0;Masculino;Branca;Nova Resende;Nova Resende;V224;CONDUTOR ACID TRANS
 27/11/2025;30/10/2001;24,0;Masculino;Branca;Sete Lagoas;Felixlândia;V244;CONDUTOR ACID TRANS
 27/11/2025;25/07/1981;44,0;Masculino;Parda;Nanuque;;V249;MOTOCICLISTA NE ACID TRANS
@@ -60082,8 +60094,8 @@
 03/12/2025;12/09/1956;69,0;Masculino;Parda;Caratinga;Manhuaçu;V499;OCUPANTE ACID TRANS NE
 04/12/2025;02/04/1945;80,0;Masculino;Parda;Pará de Minas;Pará de Minas;V021;ACID TRANS
 04/12/2025;29/03/1994;31,0;Masculino;Branca;Lagoa da Prata;Divinópolis;V231;PASSAGEIRO ACID N-TRANS
-04/12/2025;17/04/1976;49,0;Masculino;Parda;Papagaios;Sete Lagoas;V234;CONDUTOR ACID TRANS
 04/12/2025;29/03/2002;23,0;Masculino;Parda;Belo Horizonte;Belo Horizonte;V234;CONDUTOR ACID TRANS
+04/12/2025;17/04/1976;49,0;Masculino;Parda;Papagaios;Sete Lagoas;V234;CONDUTOR ACID TRANS
 04/12/2025;04/12/1971;54,0;Masculino;Parda;Governador Valadares;Governador Valadares;V435;CONDUTOR ACID TRANS
 04/12/2025;08/05/1953;72,0;Feminino;Branca;São João Evangelista;São João Evangelista;V435;CONDUTOR ACID TRANS
 04/12/2025;14/04/1949;76,0;Masculino;Parda;Unaí;Patrocínio;V499;OCUPANTE ACID TRANS NE
@@ -60283,13 +60295,13 @@
 24/12/2025;10/01/1992;33,0;Masculino;Branca;Uberlândia;Ituiutaba;V499;OCUPANTE ACID TRANS NE
 24/12/2025;21/05/1965;60,0;Masculino;Parda;Manhuaçu;Manhuaçu;V499;OCUPANTE ACID TRANS NE
 24/12/2025;05/09/1982;43,0;Feminino;Parda;Jaíba;Jaíba;V579;OCUPANTE NE ACID TRANS
-24/12/2025;13/07/1983;42,0;Masculino;Parda;Betim;Betim;V892;ACID TRANS VEIC MOT NE
 24/12/2025;16/10/1979;46,0;Masculino;Parda;Belo Horizonte;Pouso Alegre;V892;ACID TRANS VEIC MOT NE
+24/12/2025;13/07/1983;42,0;Masculino;Parda;Betim;Betim;V892;ACID TRANS VEIC MOT NE
 25/12/2025;04/04/1987;38,0;Masculino;Parda;Aimorés;Aimorés;V159;CICLISTA NE EM ACID TRANS
 25/12/2025;25/11/1971;54,0;Masculino;Preta;Montes Claros;Montes Claros;V204;CONDUTOR ACID TRANS
 25/12/2025;09/06/1975;50,0;Masculino;Parda;Nazareno;Ibituruna;V270;CONDUTOR ACID N-TRANS
-25/12/2025;27/04/1996;29,0;Masculino;Branca;Vespasiano;Belo Horizonte;V274;CONDUTOR ACID TRANS
 25/12/2025;06/03/2004;21,0;Masculino;Branca;Belo Horizonte;Belo Horizonte;V274;CONDUTOR ACID TRANS
+25/12/2025;27/04/1996;29,0;Masculino;Branca;Vespasiano;Belo Horizonte;V274;CONDUTOR ACID TRANS
 25/12/2025;30/12/2007;17,0;Masculino;Preta;São Gotardo;Patos de Minas;V299;MOTOCICLISTA ACID TRANS NE
 25/12/2025;28/09/2000;25,0;Masculino;Parda;Juiz de Fora;Juiz de Fora;V299;MOTOCICLISTA ACID TRANS NE
 25/12/2025;10/12/1965;60,0;Masculino;Parda;;Cássia;V435;CONDUTOR ACID TRANS
@@ -60404,6 +60416,7 @@
 04/01/2026;09/12/1994;31,0;Masculino;Parda;Caraí;Caraí;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 04/01/2026;24/08/2001;24,0;Feminino;Parda;Caraí;Caraí;V495;PASSAGEIRO COLIS OUTR VEIC NE MOT ACID TRANS
 04/01/2026;06/06/2019;6,0;Feminino;Parda;Caraí;Caraí;V495;PASSAGEIRO COLIS OUTR VEIC NE MOT ACID TRANS
+04/01/2026;23/03/1956;69,0;Masculino;Branca;Conselheiro Pena;Governador Valadares;V800;ACID TRANS S/COLIS
 05/01/2026;14/03/1948;77,0;Masculino;Parda;Montes Claros;Montes Claros;V049;ACID NE SE TRANS OU NAO-TRANS
 05/01/2026;10/05/1945;80,0;Masculino;Branca;São Sebastião do Paraíso;São Sebastião do Paraíso;V124;CONDUTOR EM ACID TRANS
 05/01/2026;24/06/1955;70,0;Masculino;Parda;Bambuí;Bambuí;V199;CICLISTA ACID TRANS NE
@@ -60419,6 +60432,7 @@
 06/01/2026;06/02/1981;44,0;Feminino;Preta;Uberlândia;Patos de Minas;V783;OCUPANTE NE ACID N-TRANS
 06/01/2026;01/02/1984;41,0;Masculino;Parda;Betim;Betim;V829;ACID TRANS NE
 06/01/2026;13/02/1981;44,0;Masculino;Parda;Muzambinho;;V892;ACID TRANS VEIC MOT NE
+07/01/2026;21/06/1989;36,0;Masculino;Parda;Astolfo Dutra;Astolfo Dutra;V069;ACID NE SE TRANS OU NAO-TRANS
 07/01/2026;12/12/1968;57,0;Masculino;Branca;São João da Ponte;Montes Claros;V093;ACID TRANS NE
 07/01/2026;25/04/1944;81,0;Masculino;Branca;Coqueiral;Boa Esperança;V174;CONDUTOR EM ACID TRANS
 07/01/2026;01/02/1984;41,0;Masculino;Parda;Ilicínea;Ilicínea;V499;OCUPANTE ACID TRANS NE
@@ -60457,6 +60471,8 @@
 11/01/2026;16/01/1989;36,0;Masculino;Branca;Alfenas;Alfenas;V475;CONDUTOR ACID TRANS
 11/01/2026;24/06/1971;54,0;Masculino;Parda;Ilicínea;Lavras;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 11/01/2026;24/12/1974;51,0;Masculino;Parda;Uberlândia;Uberlândia;V499;OCUPANTE ACID TRANS NE
+11/01/2026;19/10/1998;27,0;Masculino;Parda;Manga;;V892;ACID TRANS VEIC MOT NE
+11/01/2026;12/03/1980;45,0;Masculino;Preta;Ubaí;;V892;ACID TRANS VEIC MOT NE
 12/01/2026;22/12/1987;38,0;Masculino;Parda;Serrania;Serrania;V021;ACID TRANS
 12/01/2026;06/01/1969;57,0;Masculino;Indígena;São João das Missões;Brasília de Minas;V239;MOTOCICLISTA NE ACID TRANS
 12/01/2026;11/11/1969;56,0;Feminino;Branca;Engenheiro Navarro;Engenheiro Navarro;V299;MOTOCICLISTA ACID TRANS NE
@@ -60495,8 +60511,8 @@
 15/01/2026;08/03/1986;39,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V870;COLIS AUTOMOVEL E VEIC A MOTOR 2 3 RODAS
 16/01/2026;08/10/1977;48,0;Masculino;Parda;Ipatinga;Ipatinga;V031;ACID TRANS
 16/01/2026;22/05/1948;77,0;Masculino;Branca;Conselheiro Lafaiete;Barbacena;V134;CONDUTOR EM ACID TRANS
-16/01/2026;25/02/1978;47,0;Masculino;Parda;Itabira;Itabira;V234;CONDUTOR ACID TRANS
 16/01/2026;13/04/1984;41,0;Masculino;Branca;Uberlândia;;V234;CONDUTOR ACID TRANS
+16/01/2026;25/02/1978;47,0;Masculino;Parda;Itabira;Itabira;V234;CONDUTOR ACID TRANS
 16/01/2026;30/09/2001;24,0;Masculino;Branca;Itaúna;Itaúna;V239;MOTOCICLISTA NE ACID TRANS
 16/01/2026;18/10/1981;44,0;Masculino;Branca;Bom Jardim de Minas;Juiz de Fora;V299;MOTOCICLISTA ACID TRANS NE
 16/01/2026;05/06/1998;27,0;Masculino;Branca;Belo Horizonte;Brumadinho;V892;ACID TRANS VEIC MOT NE
@@ -60557,10 +60573,10 @@
 24/01/2026;02/06/2003;22,0;Masculino;Parda;Novo Oriente de Minas;Teófilo Otoni;V280;CONDUTOR ACID N-TRANS
 24/01/2026;17/01/1994;32,0;Masculino;Parda;Betim;Juatuba;V899;ACID VEIC NE
 25/01/2026;11/04/1995;30,0;Masculino;Parda;Ouro Preto;;V051;ACID TRANS
-25/01/2026;03/12/1954;71,0;Masculino;Branca;Araguari;Araguari;V234;CONDUTOR ACID TRANS
 25/01/2026;01/01/1954;72,0;Masculino;Parda;Novo Cruzeiro;Teófilo Otoni;V282;MOTOCICLISTA NE TRAUM ACID N-TRANS
 25/01/2026;07/04/1992;33,0;Masculino;Branca;Açucena;Belo Oriente;V284;CONDUTOR ACID TRANS
 25/01/2026;08/08/1974;51,0;Masculino;Parda;Santa Maria de Itabira;Itabira;V299;MOTOCICLISTA ACID TRANS NE
+25/01/2026;03/12/1954;71,0;Masculino;Branca;Araguari;Araguari;V335;CONDUTOR ACID TRANS
 25/01/2026;23/01/1991;35,0;Masculino;Parda;Virgem da Lapa;;V445;CONDUTOR ACID TRANS
 25/01/2026;30/06/2001;24,0;Feminino;Branca;Pratinha;Pratinha;V485;CONDUTOR ACID TRANS
 25/01/2026;26/04/1992;33,0;Feminino;Branca;Bambuí;Divinópolis;V499;OCUPANTE ACID TRANS NE
@@ -60592,6 +60608,7 @@
 28/01/2026;18/06/2007;18,0;Masculino;Parda;São Francisco do Glória;São Francisco do Glória;V274;CONDUTOR ACID TRANS
 28/01/2026;10/02/1985;40,0;Feminino;Branca;Carlos Chagas;Ponto dos Volantes;V499;OCUPANTE ACID TRANS NE
 29/01/2026;03/02/1978;47,0;Masculino;Parda;Ubá;;V189;CICLISTA NE EM ACID TRANS
+29/01/2026;15/12/1987;38,0;Masculino;Indígena;Delfim Moreira;Delfim Moreira;V244;CONDUTOR ACID TRANS
 29/01/2026;06/10/2005;20,0;Masculino;Parda;Montes Claros;Montes Claros;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 29/01/2026;27/04/1950;75,0;Masculino;Parda;Juiz de Fora;Ubá;V892;ACID TRANS VEIC MOT NE
 30/01/2026;23/07/1965;60,0;Masculino;Preta;Machado;Machado;V039;ACID NE SE TRANS OU NAO-TRANS
@@ -60739,6 +60756,7 @@
 16/02/2026;27/02/1944;81,0;Masculino;Parda;Patos de Minas;Patos de Minas;V041;ACID TRANS
 16/02/2026;05/11/1997;28,0;Masculino;Parda;Varginha;Varginha;V049;ACID NE SE TRANS OU NAO-TRANS
 16/02/2026;16/02/1967;59,0;Masculino;Parda;Ituiutaba;Ituiutaba;V224;CONDUTOR ACID TRANS
+16/02/2026;20/03/1957;68,0;Masculino;Parda;Campanário;Campanário;V294;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 16/02/2026;23/11/1977;48,0;Masculino;Parda;Curvelo;Curvelo;V299;MOTOCICLISTA ACID TRANS NE
 16/02/2026;22/05/2006;19,0;Masculino;Branca;São Gotardo;Rio Paranaíba;V435;CONDUTOR ACID TRANS
 16/02/2026;14/10/1975;50,0;Feminino;Parda;Itabirinha;Governador Valadares;V436;PASSAGEIRO ACID TRANS
@@ -60766,12 +60784,14 @@
 18/02/2026;28/06/1976;49,0;Masculino;Parda;Viçosa;Viçosa;V134;CONDUTOR EM ACID TRANS
 18/02/2026;04/01/2001;25,0;Masculino;Parda;Ladainha;Teófilo Otoni;V224;CONDUTOR ACID TRANS
 18/02/2026;17/09/1984;41,0;Masculino;Parda;Conselheiro Pena;Conselheiro Pena;V244;CONDUTOR ACID TRANS
+18/02/2026;08/04/1968;57,0;Masculino;Branca;São Sebastião do Paraíso;São Sebastião do Paraíso;V435;CONDUTOR ACID TRANS
 18/02/2026;01/01/1963;63,0;Masculino;Parda;São Félix de Minas;Governador Valadares;V449;OCUPANTE NE ACID TRANS
 18/02/2026;19/01/1969;57,0;Masculino;Branca;Ilicínea;Ilicínea;V485;CONDUTOR ACID TRANS
 18/02/2026;21/11/1977;48,0;Masculino;Parda;Governador Valadares;Matipó;V499;OCUPANTE ACID TRANS NE
 18/02/2026;25/09/1978;47,0;Feminino;Parda;Governador Valadares;Matipó;V499;OCUPANTE ACID TRANS NE
 19/02/2026;25/05/1987;38,0;Masculino;Branca;Barbacena;Juiz de Fora;V041;ACID TRANS
 19/02/2026;19/08/1956;69,0;Masculino;Branca;Caldas;Caldas;V139;CICLISTA NE EM ACID TRANS
+19/02/2026;15/11/1979;46,0;Masculino;Parda;Governador Valadares;Campanário;V435;CONDUTOR ACID TRANS
 19/02/2026;28/02/2018;7,0;Feminino;Branca;Guaxupé;Guaxupé;V476;PASSAGEIRO ACID TRANS
 19/02/2026;28/10/1979;46,0;Feminino;Branca;Guaxupé;Guaxupé;V476;PASSAGEIRO ACID TRANS
 19/02/2026;16/11/1972;53,0;Masculino;Branca;Guaxupé;Guaxupé;V476;PASSAGEIRO ACID TRANS
@@ -60828,6 +60848,7 @@
 26/02/2026;09/07/1971;54,0;Masculino;Branca;Uberaba;Uberaba;V244;CONDUTOR ACID TRANS
 26/02/2026;05/04/1984;41,0;Masculino;Parda;Rio Manso;Rio Manso;V445;CONDUTOR ACID TRANS
 26/02/2026;23/10/2006;19,0;Masculino;Parda;Rio Manso;Rio Manso;V446;PASSAGEIRO ACID TRANS
+26/02/2026;22/09/1985;40,0;Masculino;Parda;Congonhas;Itabirito;V872;COLIS ENTRE AUTOMOVEL E CAMINHONETE
 26/02/2026;04/04/1992;33,0;Masculino;Parda;Córrego Novo;Ipatinga;V899;ACID VEIC NE
 27/02/2026;03/10/2005;20,0;Feminino;Branca;Iturama;Uberaba;V224;CONDUTOR ACID TRANS
 27/02/2026;21/04/1998;27,0;Masculino;Parda;Pequi;São José da Varginha;V234;CONDUTOR ACID TRANS
@@ -60842,6 +60863,7 @@
 01/03/2026;05/03/1958;67,0;Feminino;Branca;Ituiutaba;Ituiutaba;V039;ACID NE SE TRANS OU NAO-TRANS
 01/03/2026;15/07/2011;14,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V144;CONDUTOR EM ACID TRANS
 01/03/2026;07/10/1946;79,0;Masculino;Branca;São João do Manteninha;Governador Valadares;V189;CICLISTA NE EM ACID TRANS
+01/03/2026;22/08/1959;66,0;Masculino;Branca;Visconde do Rio Branco;Ubá;V234;CONDUTOR ACID TRANS
 01/03/2026;12/11/1998;27,0;Masculino;Parda;Frutal;Uberaba;V234;CONDUTOR ACID TRANS
 01/03/2026;05/12/1999;26,0;Masculino;Parda;Turmalina;Turmalina;V299;MOTOCICLISTA ACID TRANS NE
 01/03/2026;22/10/2002;23,0;Feminino;Parda;Barão de Cocais;Santa Bárbara;V299;MOTOCICLISTA ACID TRANS NE
@@ -60891,6 +60913,7 @@
 07/03/2026;23/09/2009;16,0;Masculino;Branca;Areado;Areado;V235;PASSAGEIRO ACID TRANS
 07/03/2026;09/02/2006;20,0;Masculino;Parda;Belo Oriente;Caratinga;V284;CONDUTOR ACID TRANS
 07/03/2026;03/09/1994;31,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V299;MOTOCICLISTA ACID TRANS NE
+07/03/2026;10/02/1978;48,0;Masculino;Parda;Montes Claros;Francisco Sá;V499;OCUPANTE ACID TRANS NE
 07/03/2026;14/05/1991;34,0;Masculino;Parda;Unaí;Unaí;V685;CONDUTOR ACID TRANS
 07/03/2026;16/03/1968;57,0;Feminino;Parda;Montes Claros;Montes Claros;V892;ACID TRANS VEIC MOT NE
 08/03/2026;04/07/1944;81,0;Masculino;Parda;Rio Pardo de Minas;Montes Claros;V093;ACID TRANS NE
@@ -60913,6 +60936,7 @@
 09/03/2026;13/02/1966;60,0;Masculino;Parda;Nanuque;Nanuque;V124;CONDUTOR EM ACID TRANS
 09/03/2026;12/06/2005;20,0;Masculino;Parda;Pedro Leopoldo;Pedro Leopoldo;V202;MOTOCICLISTA NE TRAUM ACID N-TRANS
 09/03/2026;13/04/2011;14,0;Masculino;Branca;Muzambinho;Alfenas;V220;CONDUTOR ACID N-TRANS
+09/03/2026;02/03/1977;49,0;Masculino;Parda;Caraí;Caraí;V224;CONDUTOR ACID TRANS
 09/03/2026;27/03/1987;38,0;Masculino;Branca;Campanha;Três Corações;V249;MOTOCICLISTA NE ACID TRANS
 09/03/2026;11/07/1999;26,0;Masculino;Parda;Santos Dumont;Juiz de Fora;V270;CONDUTOR ACID N-TRANS
 09/03/2026;20/01/2008;18,0;Masculino;Branca;Extrema;;V274;CONDUTOR ACID TRANS
@@ -60987,6 +61011,7 @@
 17/03/2026;15/05/1992;33,0;Masculino;Parda;Itaúna;Carmo do Cajuru;V499;OCUPANTE ACID TRANS NE
 17/03/2026;16/09/1976;49,0;Masculino;Parda;Ibirité;Ibirité;V892;ACID TRANS VEIC MOT NE
 18/03/2026;23/10/1956;69,0;Masculino;Parda;São Sebastião do Anta;São Sebastião do Anta;V031;ACID TRANS
+18/03/2026;28/06/1968;57,0;Masculino;Parda;Francisco Sá;Francisco Sá;V131;PASSAGEIRO EM ACID N-TRANS
 18/03/2026;12/02/2005;21,0;Masculino;Branca;Poços de Caldas;Poços de Caldas;V279;MOTOCICLISTA NE ACID TRANS
 18/03/2026;08/06/1975;50,0;Feminino;Branca;Alvinópolis;Alvinópolis;V299;MOTOCICLISTA ACID TRANS NE
 18/03/2026;28/01/1978;48,0;Feminino;Parda;Carlos Chagas;;V445;CONDUTOR ACID TRANS
@@ -61017,6 +61042,7 @@
 21/03/2026;25/02/2003;23,0;Masculino;Parda;Bom Jesus do Amparo;Bom Jesus do Amparo;V892;ACID TRANS VEIC MOT NE
 21/03/2026;12/08/1962;63,0;Masculino;Parda;Estiva;Estiva;V99;ACID TRANSP NE
 21/03/2026;24/03/1985;40,0;Masculino;Branca;Coronel Pacheco;Juiz de Fora;V99;ACID TRANSP NE
+22/03/2026;14/08/2024;1,0;Masculino;Branca;Monte Santo de Minas;Monte Santo de Minas;V030;ACID N-TRANS
 22/03/2026;13/10/1996;29,0;Masculino;Parda;Contagem;Contagem;V041;ACID TRANS
 22/03/2026;11/10/1980;45,0;Masculino;Parda;Perdizes;Perdizes;V093;ACID TRANS NE
 22/03/2026;16/05/1950;75,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V099;ACID TRANSP NE
@@ -61070,6 +61096,7 @@
 27/03/2026;21/07/1981;44,0;Feminino;Parda;Belo Horizonte;Inhaúma;V235;PASSAGEIRO ACID TRANS
 27/03/2026;11/12/1978;47,0;Masculino;Parda;Santa Cruz de Minas;São João Del Rei;V299;MOTOCICLISTA ACID TRANS NE
 27/03/2026;25/07/1981;44,0;Masculino;Branca;Formiga;Formiga;V445;CONDUTOR ACID TRANS
+27/03/2026;11/08/1977;48,0;Masculino;Branca;São Geraldo;São Geraldo;V475;CONDUTOR ACID TRANS
 27/03/2026;20/09/1983;42,0;Masculino;Parda;Ouro Fino;Pouso Alegre;V499;OCUPANTE ACID TRANS NE
 27/03/2026;08/03/1972;54,0;Masculino;Branca;Araxá;Patos de Minas;V685;CONDUTOR ACID TRANS
 27/03/2026;18/06/1994;31,0;Feminino;Parda;Camanducaia;Ouro Fino;V899;ACID VEIC NE
@@ -61134,6 +61161,7 @@
 04/04/2026;08/10/1997;28,0;Masculino;Branca;Santos Dumont;Ewbank da Câmara;V892;ACID TRANS VEIC MOT NE
 04/04/2026;20/12/1986;39,0;Masculino;Parda;São João Evangelista;São João Evangelista;V899;ACID VEIC NE
 04/04/2026;08/11/1979;46,0;Feminino;Parda;Januária;Januária;V99;ACID TRANSP NE
+05/04/2026;16/11/1949;76,0;Masculino;Branca;Várzea da Palma;Várzea da Palma;V030;ACID N-TRANS
 05/04/2026;07/04/2003;22,0;Masculino;Branca;Campestre;Campestre;V235;PASSAGEIRO ACID TRANS
 05/04/2026;21/12/1948;77,0;Feminino;Branca;Ipatinga;Ipatinga;V436;PASSAGEIRO ACID TRANS
 05/04/2026;18/05/1931;94,0;Masculino;Branca;São João Del Rei;São João Del Rei;V439;OCUPANTE NE ACID TRANS
@@ -61194,7 +61222,7 @@
 10/04/2026;10/11/1993;32,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V99;ACID TRANSP NE
 11/04/2026;08/03/1944;82,0;Masculino;Branca;Ubá;Ubá;V021;ACID TRANS
 11/04/2026;04/07/1966;59,0;Masculino;Parda;Patos de Minas;Patos de Minas;V184;CONDUTOR EM ACID TRANS
-11/04/2026;17/07/1991;34,0;Feminino;Parda;Almenara;Contagem;V234;CONDUTOR ACID TRANS
+11/04/2026;17/07/1991;34,0;Feminino;Parda;Contagem;Contagem;V235;PASSAGEIRO ACID TRANS
 11/04/2026;17/08/1987;38,0;Masculino;Parda;Santa Bárbara;Barão de Cocais;V299;MOTOCICLISTA ACID TRANS NE
 11/04/2026;29/10/1996;29,0;Masculino;Preta;Ubá;Ubá;V299;MOTOCICLISTA ACID TRANS NE
 11/04/2026;11/12/1977;48,0;Masculino;Preta;Carmo da Mata;Carmo da Mata;V299;MOTOCICLISTA ACID TRANS NE
@@ -61263,6 +61291,8 @@
 18/04/2026;11/11/1967;58,0;Masculino;Branca;São José da Barra;São José da Barra;V299;MOTOCICLISTA ACID TRANS NE
 18/04/2026;22/08/2002;23,0;Masculino;Branca;Córrego Fundo;Formiga;V445;CONDUTOR ACID TRANS
 18/04/2026;22/09/1993;32,0;Masculino;Branca;Iturama;Iturama;V490;CONDUTOR COLIS OUTR VEIC NE MOT ACID N-TRANS
+18/04/2026;17/05/1991;34,0;Masculino;Parda;Uberlândia;Francisco Sá;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
+18/04/2026;03/11/1960;65,0;Masculino;Parda;Uberlândia;Francisco Sá;V499;OCUPANTE ACID TRANS NE
 18/04/2026;28/04/1975;50,0;Masculino;Parda;Santa Cruz de Salinas;Montes Claros;V499;OCUPANTE ACID TRANS NE
 18/04/2026;22/03/1991;35,0;Masculino;Parda;Contagem;Manhuaçu;V499;OCUPANTE ACID TRANS NE
 18/04/2026;06/07/1988;37,0;Feminino;Branca;Campo Belo;Campo Belo;V892;ACID TRANS VEIC MOT NE
@@ -61288,9 +61318,9 @@
 20/04/2026;20/11/1994;31,0;Masculino;Parda;Carlos Chagas;Carlos Chagas;V244;CONDUTOR ACID TRANS
 20/04/2026;02/09/1955;70,0;Feminino;Branca;Uberlândia;Uberlândia;V449;OCUPANTE NE ACID TRANS
 20/04/2026;01/11/1975;50,0;Feminino;Branca;Uberlândia;Uberlândia;V449;OCUPANTE NE ACID TRANS
+20/04/2026;16/02/1977;49,0;Feminino;Parda;Cachoeira da Prata;Inhaúma;V485;CONDUTOR ACID TRANS
 20/04/2026;16/05/1996;29,0;Masculino;Branca;São Gotardo;Patos de Minas;V499;OCUPANTE ACID TRANS NE
 20/04/2026;03/07/1978;47,0;Masculino;Branca;Divino;Divino;V545;CONDUTOR ACID TRANS
-20/04/2026;16/02/1977;49,0;Feminino;Parda;Cachoeira da Prata;Inhaúma;V892;ACID TRANS VEIC MOT NE
 20/04/2026;10/11/1958;67,0;Masculino;Parda;Nova Serrana;Divinópolis;V899;ACID VEIC NE
 21/04/2026;22/08/1933;92,0;Masculino;Branca;Matias Barbosa;Matias Barbosa;V099;ACID TRANSP NE
 21/04/2026;02/07/1981;44,0;Masculino;Parda;Unaí;Unaí;V149;CICLISTA NE EM ACID TRANS
@@ -61341,6 +61371,7 @@
 27/04/2026;20/10/2004;21,0;Masculino;Parda;Santa Cruz de Salinas;Taiobeiras;V234;CONDUTOR ACID TRANS
 27/04/2026;05/08/1991;34,0;Masculino;Parda;Belo Horizonte;Contagem;V244;CONDUTOR ACID TRANS
 27/04/2026;13/04/1955;71,0;Masculino;Branca;Ubaporanga;Inhapim;V434;PESSOA AO SUBIR OU DESCER DO VEIC
+27/04/2026;01/05/1995;30,0;Masculino;Parda;Betim;Belo Horizonte;V475;CONDUTOR ACID TRANS
 27/04/2026;06/02/2004;22,0;Masculino;Branca;Itaúna;Itaúna;V490;CONDUTOR COLIS OUTR VEIC NE MOT ACID N-TRANS
 27/04/2026;10/01/1982;44,0;Masculino;Parda;Lagoa da Prata;Moema;V499;OCUPANTE ACID TRANS NE
 27/04/2026;27/10/1969;56,0;Masculino;Parda;Governador Valadares;Governador Valadares;V892;ACID TRANS VEIC MOT NE
@@ -61352,6 +61383,7 @@
 28/04/2026;10/09/1967;58,0;Masculino;Parda;Jequitinhonha;Jequitinhonha;V499;OCUPANTE ACID TRANS NE
 28/04/2026;26/07/1988;37,0;Masculino;Parda;Manhuaçu;Sabará;V684;PESSOA AO SUBIR OU DESCER DO VEIC
 29/04/2026;19/03/1984;42,0;Masculino;Parda;Betim;;V093;ACID TRANS NE
+29/04/2026;05/05/2000;25,0;Masculino;Parda;Senador Firmino;Ubá;V205;PASSAGEIRO ACID TRANS
 29/04/2026;02/04/1982;44,0;Masculino;Branca;Pedras de Maria da Cruz;Pedras de Maria da Cruz;V274;CONDUTOR ACID TRANS
 29/04/2026;21/08/1988;37,0;Masculino;Branca;Itajubá;Itajubá;V299;MOTOCICLISTA ACID TRANS NE
 29/04/2026;12/09/1983;42,0;Feminino;Parda;Cachoeira de Pajeú;Rubelita;V449;OCUPANTE NE ACID TRANS
@@ -61362,9 +61394,9 @@
 30/04/2026;04/03/1966;60,0;Feminino;Parda;Itajubá;Itajubá;V041;ACID TRANS
 30/04/2026;04/03/2008;18,0;Masculino;Branca;Tarumirim;Governador Valadares;V209;MOTOCICLISTA NE ACID TRANS
 30/04/2026;14/09/1979;46,0;Masculino;Parda;Belo Horizonte;Contagem;V224;CONDUTOR ACID TRANS
+30/04/2026;21/11/1995;30,0;Masculino;Parda;Novo Cruzeiro;;V234;CONDUTOR ACID TRANS
 30/04/2026;27/04/2006;20,0;Feminino;Parda;Coronel Fabriciano;Coronel Fabriciano;V234;CONDUTOR ACID TRANS
 30/04/2026;13/12/1981;44,0;Masculino;Branca;Barbacena;Barbacena;V234;CONDUTOR ACID TRANS
-30/04/2026;21/11/1995;30,0;Masculino;Parda;Novo Cruzeiro;;V234;CONDUTOR ACID TRANS
 30/04/2026;15/04/2007;19,0;Masculino;Parda;Poté;;V239;MOTOCICLISTA NE ACID TRANS
 30/04/2026;22/06/1957;68,0;Masculino;Branca;Juiz de Fora;Lima Duarte;V249;MOTOCICLISTA NE ACID TRANS
 30/04/2026;05/05/1987;38,0;Masculino;Branca;Miraí;;V280;CONDUTOR ACID N-TRANS
@@ -61418,6 +61450,7 @@
 06/05/2026;01/06/1966;59,0;Masculino;Branca;Caxambu;Caxambu;V049;ACID NE SE TRANS OU NAO-TRANS
 06/05/2026;07/01/1989;37,0;Masculino;Branca;Jacutinga;Jacutinga;V234;CONDUTOR ACID TRANS
 06/05/2026;11/01/1992;34,0;Masculino;Branca;Manhuaçu;Manhuaçu;V239;MOTOCICLISTA NE ACID TRANS
+06/05/2026;05/08/1997;28,0;Masculino;Parda;Pimenta;Pimenta;V244;CONDUTOR ACID TRANS
 06/05/2026;15/02/2001;25,0;Masculino;Parda;Três Pontas;Três Pontas;V274;CONDUTOR ACID TRANS
 06/05/2026;08/12/2001;24,0;Masculino;Parda;Uberlândia;São Francisco de Sales;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 06/05/2026;28/01/1951;75,0;Masculino;Parda;Montes Claros;Verdelândia;V545;CONDUTOR ACID TRANS
@@ -61437,6 +61470,7 @@
 08/05/2026;19/10/1975;50,0;Masculino;Parda;Porteirinha;Porteirinha;V499;OCUPANTE ACID TRANS NE
 08/05/2026;07/09/1958;67,0;Masculino;Parda;Contagem;Montes Claros;V899;ACID VEIC NE
 08/05/2026;16/07/1945;80,0;Feminino;Parda;Buenópolis;Curvelo;V99;ACID TRANSP NE
+09/05/2026;20/10/1958;67,0;Feminino;Parda;Ribeirão das Neves;Ribeirão das Neves;V021;ACID TRANS
 09/05/2026;07/04/1975;51,0;Masculino;Parda;Bocaiúva;Bocaiúva;V279;MOTOCICLISTA NE ACID TRANS
 09/05/2026;30/04/1966;60,0;Masculino;Branca;Patos de Minas;Patos de Minas;V299;MOTOCICLISTA ACID TRANS NE
 09/05/2026;23/11/2001;24,0;Masculino;Parda;Itamarandiba;Diamantina;V786;PASSAGEIRO ACID TRANS
@@ -61460,6 +61494,7 @@
 11/05/2026;05/09/1964;61,0;Masculino;Parda;Cristais;Campo Belo;V499;OCUPANTE ACID TRANS NE
 11/05/2026;27/02/1972;54,0;Masculino;Branca;São Joaquim de Bicas;Betim;V892;ACID TRANS VEIC MOT NE
 11/05/2026;23/12/2007;18,0;Masculino;Parda;Antônio Dias;Timóteo;V899;ACID VEIC NE
+12/05/2026;22/04/1964;62,0;Masculino;Parda;Ipatinga;Caratinga;V021;ACID TRANS
 12/05/2026;01/06/1985;40,0;Masculino;Parda;Contagem;Contagem;V234;CONDUTOR ACID TRANS
 12/05/2026;12/10/1970;55,0;Masculino;Parda;Taiobeiras;Taiobeiras;V234;CONDUTOR ACID TRANS
 12/05/2026;05/03/1984;42,0;Masculino;Parda;Belo Horizonte;Contagem;V285;PASSAGEIRO ACID TRANS
@@ -61501,6 +61536,7 @@
 17/05/2026;17/02/1988;38,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V443;OCUPANTE NE ACID N-TRANS
 17/05/2026;12/04/1974;52,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V449;OCUPANTE NE ACID TRANS
 17/05/2026;23/02/1959;67,0;Masculino;Branca;Alfenas;Campos Gerais;V475;CONDUTOR ACID TRANS
+17/05/2026;30/09/1975;50,0;Masculino;Branca;Cascalho Rico;Estrela do Sul;V480;CONDUTOR ACID N-TRANS
 17/05/2026;26/07/1985;40,0;Masculino;Parda;Carmo do Paranaíba;Carmo do Paranaíba;V485;CONDUTOR ACID TRANS
 17/05/2026;18/02/2002;24,0;Masculino;Parda;Betim;Betim;V489;OCUPANTE NE ACID TRANS
 17/05/2026;26/12/1999;26,0;Masculino;Parda;Águas Vermelhas;Águas Vermelhas;V499;OCUPANTE ACID TRANS NE
@@ -61572,7 +61608,10 @@
 24/05/2026;16/10/1987;38,0;Masculino;Parda;Frei Gaspar;Governador Valadares;V892;ACID TRANS VEIC MOT NE
 24/05/2026;21/11/1990;35,0;Masculino;Parda;Governador Valadares;Governador Valadares;V892;ACID TRANS VEIC MOT NE
 25/05/2026;28/03/1963;63,0;Masculino;Parda;Três Pontas;Boa Esperança;V031;ACID TRANS
+25/05/2026;14/05/1978;48,0;Feminino;Parda;Igarapé;Igarapé;V99;ACID TRANSP NE
 26/05/2026;29/12/1976;49,0;Masculino;Parda;Betim;Betim;V092;ACID TRANS ENVOLV OUTR VEIC E NE A MOTOR
+26/05/2026;22/10/1997;28,0;Masculino;Parda;Ubá;Ubá;V234;CONDUTOR ACID TRANS
+26/05/2026;29/09/1983;42,0;Masculino;Parda;Santa Efigênia de Minas;Santa Efigênia de Minas;V244;CONDUTOR ACID TRANS
 26/05/2026;15/02/1984;42,0;Masculino;Preta;Santos Dumont;Madre de Deus de Minas;V892;ACID TRANS VEIC MOT NE
 26/05/2026;09/07/1987;38,0;Feminino;Parda;Governador Valadares;Governador Valadares;V892;ACID TRANS VEIC MOT NE
 26/05/2026;29/01/1995;31,0;Masculino;Parda;Betim;Betim;V892;ACID TRANS VEIC MOT NE
@@ -61630,6 +61669,7 @@
 02/06/2026;27/10/1971;54,0;Masculino;Parda;Contagem;Contagem;V09;PEDESTRE TRAUM OUTR ACID TRANSP E NE
 02/06/2026;23/08/2007;18,0;Feminino;Parda;Esmeraldas;Betim;V189;CICLISTA NE EM ACID TRANS
 02/06/2026;09/10/2006;19,0;Masculino;Parda;Montes Claros;Montes Claros;V899;ACID VEIC NE
+02/06/2026;23/08/1978;47,0;Masculino;Branca;Ouro Preto;Mariana;V99;ACID TRANSP NE
 03/06/2026;12/02/1964;62,0;Feminino;Parda;Uberlândia;Uberlândia;V093;ACID TRANS NE
 03/06/2026;03/03/2012;14,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V134;CONDUTOR EM ACID TRANS
 03/06/2026;17/11/1953;72,0;Masculino;Branca;Extrema;Pouso Alegre;V199;CICLISTA ACID TRANS NE
@@ -61671,6 +61711,7 @@
 07/06/2026;14/07/1974;51,0;Masculino;Parda;Uberlândia;Uberlândia;V093;ACID TRANS NE
 07/06/2026;06/06/2012;14,0;Masculino;Parda;Ribeirão das Neves;Jequitaí;V476;PASSAGEIRO ACID TRANS
 07/06/2026;16/03/2016;10,0;Feminino;Parda;Ribeirão das Neves;Jequitaí;V476;PASSAGEIRO ACID TRANS
+07/06/2026;27/06/1971;54,0;Masculino;Parda;Paineiras;Paineiras;V485;CONDUTOR ACID TRANS
 07/06/2026;06/02/1989;37,0;Masculino;Parda;Unaí;Unaí;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 07/06/2026;17/07/2015;10,0;Masculino;Parda;Unaí;Unaí;V495;PASSAGEIRO COLIS OUTR VEIC NE MOT ACID TRANS
 07/06/2026;12/09/1997;28,0;Feminino;Parda;Divisópolis;Divisópolis;V499;OCUPANTE ACID TRANS NE
@@ -61702,9 +61743,11 @@
 10/06/2026;17/09/1977;48,0;Masculino;Branca;Uberaba;Uberaba;V449;OCUPANTE NE ACID TRANS
 10/06/2026;16/08/1967;58,0;Masculino;Parda;Caparaó;Caparaó;V499;OCUPANTE ACID TRANS NE
 10/06/2026;16/02/1963;63,0;Masculino;Parda;Nanuque;;V800;ACID TRANS S/COLIS
+10/06/2026;04/12/2002;23,0;Masculino;Preta;Mariana;Mariana;V99;ACID TRANSP NE
 11/06/2026;22/02/2024;2,0;Feminino;Branca;Bom Despacho;Bom Despacho;V049;ACID NE SE TRANS OU NAO-TRANS
 11/06/2026;03/01/1952;74,0;Feminino;Parda;Peçanha;Peçanha;V049;ACID NE SE TRANS OU NAO-TRANS
 11/06/2026;11/09/1999;26,0;Masculino;Parda;Ipatinga;Ipatinga;V234;CONDUTOR ACID TRANS
+11/06/2026;03/08/1964;61,0;Masculino;Parda;Guaraciaba;Ponte Nova;V298;MOTOCICLISTA OUTR ACID TRANSP ESPEC
 11/06/2026;10/12/1996;29,0;Masculino;;Campos Altos;Formiga;V446;PASSAGEIRO ACID TRANS
 11/06/2026;21/12/1993;32,0;Masculino;Branca;Campos Altos;Formiga;V449;OCUPANTE NE ACID TRANS
 11/06/2026;20/01/1962;64,0;Masculino;Parda;Patos de Minas;Bambuí;V899;ACID VEIC NE
@@ -61742,6 +61785,7 @@
 14/06/2026;17/06/1951;74,0;Feminino;Parda;Januária;Januária;V436;PASSAGEIRO ACID TRANS
 14/06/2026;11/05/1994;32,0;Feminino;Branca;Lavras;Lavras;V439;OCUPANTE NE ACID TRANS
 14/06/2026;18/01/1993;33,0;Feminino;Branca;Lavras;Lavras;V439;OCUPANTE NE ACID TRANS
+14/06/2026;31/03/2008;18,0;Masculino;Branca;Varjão de Minas;Varjão de Minas;V485;CONDUTOR ACID TRANS
 14/06/2026;16/04/1990;36,0;Masculino;Branca;Divinópolis;Oliveira;V499;OCUPANTE ACID TRANS NE
 14/06/2026;03/07/1972;53,0;Masculino;Preta;Alvinópolis;Alvinópolis;V899;ACID VEIC NE
 14/06/2026;24/01/1985;41,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V99;ACID TRANSP NE
@@ -61766,9 +61810,11 @@
 18/06/2026;21/05/1972;54,0;Masculino;Branca;São Félix de Minas;São Félix de Minas;V124;CONDUTOR EM ACID TRANS
 18/06/2026;20/12/1999;26,0;Masculino;Parda;Durandé;Manhuaçu;V209;MOTOCICLISTA NE ACID TRANS
 18/06/2026;05/05/2009;17,0;Masculino;Branca;Ubaporanga;Inhapim;V234;CONDUTOR ACID TRANS
+18/06/2026;12/03/2011;15,0;Masculino;Parda;Ubaporanga;Caratinga;V299;MOTOCICLISTA ACID TRANS NE
 18/06/2026;11/11/1986;39,0;Masculino;Parda;Mato Verde;Monte Azul;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 18/06/2026;22/06/1989;36,0;Masculino;Parda;Janaúba;Jacutinga;V499;OCUPANTE ACID TRANS NE
 18/06/2026;25/10/1982;43,0;Masculino;Branca;Uberaba;Uberaba;V545;CONDUTOR ACID TRANS
+18/06/2026;02/06/1960;66,0;Masculino;Branca;Extrema;Extrema;V845;CONDUTOR ACID N-TRANS
 18/06/2026;13/10/1974;51,0;Masculino;Parda;Januária;Brasília de Minas;V99;ACID TRANSP NE
 19/06/2026;04/03/1999;27,0;Feminino;Branca;Varginha;Varginha;V099;ACID TRANSP NE
 19/06/2026;20/06/1944;81,0;Masculino;Parda;Uberlândia;Uberlândia;V139;CICLISTA NE EM ACID TRANS
@@ -61777,6 +61823,8 @@
 20/06/2026;07/04/1986;40,0;Masculino;Parda;Patrocínio;Patrocínio;V090;ACID N-TRANS ENVOLV OUTR VEIC MOTOR E NE
 20/06/2026;24/10/2023;2,0;Feminino;Branca;Santa Vitória;Santa Vitória;V091;ACID N-TRANS NE
 20/06/2026;02/03/1991;35,0;Masculino;Parda;Governador Valadares;Governador Valadares;V289;MOTOCICLISTA NE ACID TRANS
+20/06/2026;30/04/1974;52,0;Masculino;Branca;Inhapim;Caratinga;V299;MOTOCICLISTA ACID TRANS NE
+20/06/2026;02/05/1998;28,0;Masculino;Parda;Presidente Kubitschek;Datas;V299;MOTOCICLISTA ACID TRANS NE
 20/06/2026;27/01/1987;39,0;Masculino;Parda;Japonvar;Mirabela;V439;OCUPANTE NE ACID TRANS
 20/06/2026;14/07/1989;36,0;Masculino;Parda;Divinópolis;Divinópolis;V499;OCUPANTE ACID TRANS NE
 20/06/2026;01/10/2005;20,0;Masculino;Parda;Divinópolis;Divinópolis;V499;OCUPANTE ACID TRANS NE
@@ -61801,12 +61849,15 @@
 23/06/2026;23/11/1999;26,0;Masculino;Branca;Viçosa;Itabirito;V184;CONDUTOR EM ACID TRANS
 23/06/2026;13/03/1996;30,0;Masculino;Parda;Lagoa Grande;Presidente Olegário;V249;MOTOCICLISTA NE ACID TRANS
 23/06/2026;29/04/2002;24,0;Masculino;Parda;Janaúba;Janaúba;V299;MOTOCICLISTA ACID TRANS NE
+23/06/2026;08/06/1963;63,0;Masculino;Branca;Leopoldina;Leopoldina;V479;OCUPANTE NE ACID TRANS
 23/06/2026;21/05/1981;45,0;Masculino;Parda;Timóteo;Itaobim;V499;OCUPANTE ACID TRANS NE
 23/06/2026;26/10/1968;57,0;Masculino;Parda;Caetanópolis;Sete Lagoas;V689;OCUPANTE NE ACID TRANS
 24/06/2026;04/09/1989;36,0;Masculino;Parda;Congonhas;Congonhas;V031;ACID TRANS
 24/06/2026;31/05/1989;37,0;Masculino;Parda;Luminárias;Ingaí;V031;ACID TRANS
 24/06/2026;05/01/1946;80,0;Masculino;Parda;Sete Lagoas;Sete Lagoas;V093;ACID TRANS NE
 24/06/2026;08/07/1968;57,0;Masculino;Branca;Governador Valadares;Governador Valadares;V229;MOTOCICLISTA NE ACID TRANS
+24/06/2026;20/01/1990;36,0;Masculino;Parda;Galiléia;Galiléia;V244;CONDUTOR ACID TRANS
+24/06/2026;28/09/1971;54,0;Masculino;Branca;Rio Casca;Ponte Nova;V299;MOTOCICLISTA ACID TRANS NE
 25/06/2026;26/10/1993;32,0;Masculino;Parda;Alpercata;Alpercata;V041;ACID TRANS
 25/06/2026;22/05/1955;71,0;Masculino;Branca;Bom Jesus do Amparo;Bom Jesus do Amparo;V099;ACID TRANSP NE
 25/06/2026;12/02/1993;33,0;Masculino;Preta;São João Del Rei;São João Del Rei;V299;MOTOCICLISTA ACID TRANS NE
@@ -61827,6 +61878,7 @@
 27/06/2026;13/10/1994;31,0;Masculino;Branca;Novo Cruzeiro;Manhuaçu;V499;OCUPANTE ACID TRANS NE
 28/06/2026;04/09/1974;51,0;Masculino;Parda;Belo Horizonte;Bocaiúva;V041;ACID TRANS
 28/06/2026;15/05/1969;57,0;Masculino;Parda;Salinas;;V092;ACID TRANS ENVOLV OUTR VEIC E NE A MOTOR
+28/06/2026;13/08/2001;24,0;Masculino;Branca;Itanhandu;Passa Quatro;V229;MOTOCICLISTA NE ACID TRANS
 28/06/2026;27/07/2004;21,0;Masculino;Parda;Uberlândia;Uberlândia;V299;MOTOCICLISTA ACID TRANS NE
 28/06/2026;30/09/1962;63,0;Feminino;Parda;Unaí;Unaí;V443;OCUPANTE NE ACID N-TRANS
 28/06/2026;15/02/1956;70,0;Masculino;Parda;Mato Verde;Janaúba;V499;OCUPANTE ACID TRANS NE
@@ -61836,9 +61888,11 @@
 29/06/2026;07/09/2003;22,0;Masculino;Parda;Romaria;Monte Carmelo;V234;CONDUTOR ACID TRANS
 29/06/2026;24/08/1963;62,0;Masculino;Preta;Claro dos Poções;Montes Claros;V284;CONDUTOR ACID TRANS
 29/06/2026;09/12/2000;25,0;Masculino;Parda;Porteirinha;Montes Claros;V892;ACID TRANS VEIC MOT NE
+29/06/2026;24/07/1991;34,0;Masculino;Parda;Ponte Nova;Mariana;V99;ACID TRANSP NE
 30/06/2026;29/10/1970;55,0;Masculino;Parda;Ituiutaba;Ituiutaba;V244;CONDUTOR ACID TRANS
 30/06/2026;25/05/1969;57,0;Feminino;Parda;Montes Claros;Montes Claros;V293;MOTOCICLISTA ACID NE N-TRANS
 30/06/2026;27/07/1956;69,0;Feminino;Branca;Poços de Caldas;;V299;MOTOCICLISTA ACID TRANS NE
+30/06/2026;12/03/1961;65,0;Masculino;Branca;Pará de Minas;Juatuba;V899;ACID VEIC NE
 30/06/2026;07/12/1939;86,0;Feminino;Branca;Divinópolis;Divinópolis;V899;ACID VEIC NE
 30/06/2026;09/08/1966;59,0;Masculino;Branca;Formoso;Buritis;V99;ACID TRANSP NE
 01/07/2026;21/09/1961;64,0;Masculino;Parda;Almenara;Teófilo Otoni;V234;CONDUTOR ACID TRANS
@@ -61847,38 +61901,45 @@
 01/07/2026;03/09/1980;45,0;Masculino;Parda;Ribeirão das Neves;São Gonçalo do Rio Abaixo;V892;ACID TRANS VEIC MOT NE
 02/07/2026;26/07/1942;83,0;Masculino;Branca;Araguari;Uberlândia;V093;ACID TRANS NE
 02/07/2026;31/01/2007;19,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V170;CONDUTOR EM ACID N-TRANS
+02/07/2026;17/11/1998;27,0;Masculino;Branca;Igarapé;Betim;V232;MOTOCICLISTA NE TRAUM ACID N-TRANS
 02/07/2026;31/03/1966;60,0;Masculino;Branca;Carandaí;Barbacena;V249;MOTOCICLISTA NE ACID TRANS
 02/07/2026;15/03/2007;19,0;Masculino;Parda;Sete Lagoas;Sete Lagoas;V274;CONDUTOR ACID TRANS
 02/07/2026;12/07/1978;47,0;Masculino;Branca;Cachoeira de Minas;Pouso Alegre;V299;MOTOCICLISTA ACID TRANS NE
 02/07/2026;15/12/1970;55,0;Feminino;Branca;Planura;;V446;PASSAGEIRO ACID TRANS
 02/07/2026;15/11/1963;62,0;Masculino;Branca;Reduto;;V499;OCUPANTE ACID TRANS NE
 02/07/2026;22/07/1957;68,0;Masculino;Branca;Limeira do Oeste;Santa Vitória;V499;OCUPANTE ACID TRANS NE
-02/07/2026;06/03/1989;37,0;Masculino;Parda;Araguari;Araguari;V499;OCUPANTE ACID TRANS NE
+02/07/2026;06/03/1989;37,0;Masculino;Parda;Araguari;Araguari;V685;CONDUTOR ACID TRANS
 03/07/2026;04/01/1965;61,0;Feminino;Branca;Iturama;Uberaba;V189;CICLISTA NE EM ACID TRANS
 03/07/2026;12/02/1993;33,0;Masculino;Parda;Mutum;;V299;MOTOCICLISTA ACID TRANS NE
 03/07/2026;17/11/2005;20,0;Masculino;Branca;Varginha;Varginha;V479;OCUPANTE NE ACID TRANS
+03/07/2026;09/12/2007;18,0;Masculino;Preta;Paula Cândido;Ponte Nova;V804;COLIS AUTOM CAMINHON VEIC TRANS PESAD ONIBUS
 03/07/2026;04/07/1995;30,0;Feminino;Parda;Abaeté;Abaeté;V892;ACID TRANS VEIC MOT NE
 03/07/2026;25/03/1963;63,0;Masculino;Parda;São Gonçalo do Abaeté;Patos de Minas;V892;ACID TRANS VEIC MOT NE
 04/07/2026;18/07/1976;49,0;Masculino;Parda;Montes Claros;Montes Claros;V099;ACID TRANSP NE
 04/07/2026;14/01/1948;78,0;Masculino;Branca;Três Corações;Três Corações;V171;PASSAGEIRO EM ACID N-TRANS
 04/07/2026;08/10/1941;84,0;Masculino;Parda;Ituiutaba;Uberlândia;V239;MOTOCICLISTA NE ACID TRANS
+04/07/2026;04/11/1975;50,0;Masculino;Parda;Ponte Nova;Ponte Nova;V294;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 04/07/2026;12/10/1979;46,0;Feminino;Preta;Juiz de Fora;Juiz de Fora;V299;MOTOCICLISTA ACID TRANS NE
 04/07/2026;21/11/1958;67,0;Masculino;Preta;Medina;Teófilo Otoni;V435;CONDUTOR ACID TRANS
 04/07/2026;30/06/1982;44,0;Masculino;Parda;Miradouro;Vieiras;V485;CONDUTOR ACID TRANS
+04/07/2026;04/10/1993;32,0;Feminino;Branca;Prata;Prata;V498;OCUPANTE OUTR ACID TRANS ESPEC
 04/07/2026;17/04/1994;32,0;Masculino;Parda;Mata Verde;Mata Verde;V499;OCUPANTE ACID TRANS NE
 04/07/2026;24/08/1993;32,0;Feminino;Parda;Patos de Minas;Coromandel;V892;ACID TRANS VEIC MOT NE
 04/07/2026;03/07/1988;38,0;Masculino;Preta;Papagaios;Divinópolis;V899;ACID VEIC NE
 05/07/2026;21/08/1942;83,0;Masculino;Preta;Uberlândia;Uberlândia;V093;ACID TRANS NE
 05/07/2026;27/04/2007;19,0;Masculino;Branca;Varginha;Varginha;V239;MOTOCICLISTA NE ACID TRANS
 05/07/2026;21/01/1987;39,0;Masculino;Parda;Ipatinga;Ipatinga;V274;CONDUTOR ACID TRANS
+05/07/2026;12/08/1996;29,0;Masculino;Branca;Delfinópolis;Delfinópolis;V485;CONDUTOR ACID TRANS
+05/07/2026;08/11/2004;21,0;Masculino;Parda;Prata;Prata;V498;OCUPANTE OUTR ACID TRANS ESPEC
 05/07/2026;04/11/1997;28,0;Masculino;Parda;Bom Repouso;Bom Repouso;V499;OCUPANTE ACID TRANS NE
-05/07/2026;12/01/2003;23,0;Masculino;Parda;Montes Claros;Montes Claros;V892;ACID TRANS VEIC MOT NE
 05/07/2026;05/02/1964;62,0;Feminino;Branca;Betim;;V892;ACID TRANS VEIC MOT NE
+05/07/2026;12/01/2003;23,0;Masculino;Parda;Montes Claros;Montes Claros;V892;ACID TRANS VEIC MOT NE
 06/07/2026;07/08/2005;20,0;Masculino;Branca;Mata Verde;;V041;ACID TRANS
 06/07/2026;09/01/1991;35,0;Masculino;Parda;Alfenas;Alfenas;V244;CONDUTOR ACID TRANS
 06/07/2026;29/08/1988;37,0;Masculino;Parda;Capelinha;Capelinha;V29;MOTOCICLISTA TRAUM OUTR ACID TRANSP E NE
 06/07/2026;01/07/1945;81,0;Masculino;Branca;Pitangui;Pitangui;V439;OCUPANTE NE ACID TRANS
 06/07/2026;19/08/1980;45,0;Masculino;Parda;Abaeté;Quartel Geral;V892;ACID TRANS VEIC MOT NE
+07/07/2026;05/05/1991;35,0;Masculino;Parda;Visconde do Rio Branco;Visconde do Rio Branco;V244;CONDUTOR ACID TRANS
 07/07/2026;21/08/1986;39,0;Feminino;Branca;Teófilo Otoni;Teófilo Otoni;V244;CONDUTOR ACID TRANS
 07/07/2026;13/07/1970;55,0;Masculino;Parda;Inhapim;Inhapim;V280;CONDUTOR ACID N-TRANS
 07/07/2026;01/10/1957;68,0;Masculino;Branca;Vespasiano;São Gonçalo do Rio Abaixo;V892;ACID TRANS VEIC MOT NE
@@ -61890,11 +61951,15 @@
 08/07/2026;18/06/1987;39,0;Masculino;Parda;Sete Lagoas;Sete Lagoas;V435;CONDUTOR ACID TRANS
 08/07/2026;13/12/1973;52,0;Masculino;Branca;Lagoa Formosa;Divinópolis;V499;OCUPANTE ACID TRANS NE
 09/07/2026;09/02/1967;59,0;Masculino;Parda;Belo Oriente;Ipatinga;V199;CICLISTA ACID TRANS NE
+09/07/2026;05/06/2008;18,0;Masculino;Parda;Piranga;Piranga;V239;MOTOCICLISTA NE ACID TRANS
 09/07/2026;08/05/2018;8,0;Masculino;Parda;Itaúna;Cambuí;V49;OCUP AUTOMOVEL TRAUM OUTR ACID TRANSP E NE
 09/07/2026;07/12/1984;41,0;Masculino;Branca;Itaúna;Catas Altas;V685;CONDUTOR ACID TRANS
 10/07/2026;17/01/1982;44,0;Feminino;Parda;Piumhi;Passos;V099;ACID TRANSP NE
 10/07/2026;20/04/1994;32,0;Masculino;Parda;Augusto de Lima;Augusto de Lima;V299;MOTOCICLISTA ACID TRANS NE
+10/07/2026;30/09/2005;20,0;Masculino;Branca;Albertina;;V475;CONDUTOR ACID TRANS
+10/07/2026;11/11/2004;21,0;Masculino;Parda;Mateus Leme;Juatuba;V899;ACID VEIC NE
 11/07/2026;30/01/2007;19,0;Masculino;Preta;Paracatu;Paracatu;V234;CONDUTOR ACID TRANS
+11/07/2026;28/12/1973;52,0;Feminino;Parda;Santa Maria do Suaçuí;Governador Valadares;V289;MOTOCICLISTA NE ACID TRANS
 11/07/2026;01/04/2008;18,0;Masculino;Parda;Uberlândia;Uberlândia;V299;MOTOCICLISTA ACID TRANS NE
 11/07/2026;30/03/1989;37,0;Feminino;Preta;Juiz de Fora;Bicas;V439;OCUPANTE NE ACID TRANS
 11/07/2026;14/06/2009;17,0;Masculino;Parda;Águas Vermelhas;Pedra Azul;V499;OCUPANTE ACID TRANS NE
@@ -61915,9 +61980,12 @@
 12/07/2026;03/09/2022;3,0;Feminino;Branca;Ipanema;Ipanema;V498;OCUPANTE OUTR ACID TRANS ESPEC
 12/07/2026;27/07/1953;72,0;Masculino;Branca;Campanha;Campanha;V499;OCUPANTE ACID TRANS NE
 12/07/2026;17/05/2026;0,0;Masculino;Branca;Conceição da Barra de Minas;São João Del Rei;V499;OCUPANTE ACID TRANS NE
+12/07/2026;07/07/1990;36,0;Masculino;Branca;Itamonte;;V685;CONDUTOR ACID TRANS
 12/07/2026;08/04/2007;19,0;Masculino;Branca;Carandaí;Carandaí;V871;COLIS OUTR VEIC MOT E VEIC A MOTOR 2 3 RODAS
+12/07/2026;12/03/1984;42,0;Masculino;Preta;Betim;Betim;V892;ACID TRANS VEIC MOT NE
 13/07/2026;30/11/1973;52,0;Masculino;Branca;Araxá;Araxá;V021;ACID TRANS
-13/07/2026;21/11/2004;21,0;Masculino;Parda;Araguari;Araguari;V439;OCUPANTE NE ACID TRANS
+13/07/2026;02/03/1997;29,0;Masculino;Parda;São João Evangelista;São João Evangelista;V234;CONDUTOR ACID TRANS
+13/07/2026;21/11/2004;21,0;Masculino;Parda;Araguari;Araguari;V435;CONDUTOR ACID TRANS
 13/07/2026;22/04/1976;50,0;Masculino;Parda;Campanha;Campanha;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 13/07/2026;14/07/2009;16,0;Feminino;Parda;Campanha;Campanha;V495;PASSAGEIRO COLIS OUTR VEIC NE MOT ACID TRANS
 13/07/2026;23/04/1975;51,0;Feminino;Branca;Campanha;Campanha;V495;PASSAGEIRO COLIS OUTR VEIC NE MOT ACID TRANS
@@ -61927,19 +61995,25 @@
 14/07/2026;13/09/1950;75,0;Masculino;Preta;Uberlândia;Uberlândia;V092;ACID TRANS ENVOLV OUTR VEIC E NE A MOTOR
 14/07/2026;25/11/1955;70,0;Masculino;Branca;Bom Despacho;Bom Despacho;V093;ACID TRANS NE
 14/07/2026;04/01/1977;49,0;Masculino;Parda;Raul Soares;Raul Soares;V144;CONDUTOR EM ACID TRANS
+14/07/2026;21/09/1976;49,0;Masculino;Branca;Conselheiro Lafaiete;Conselheiro Lafaiete;V892;ACID TRANS VEIC MOT NE
 14/07/2026;26/07/1949;76,0;Masculino;Branca;Guiricema;Ubá;V899;ACID VEIC NE
 14/07/2026;22/07/1958;67,0;Feminino;Branca;Pompéu;Pompéu;V899;ACID VEIC NE
 15/07/2026;24/06/1966;60,0;Feminino;Branca;Poços de Caldas;Poços de Caldas;V021;ACID TRANS
+15/07/2026;28/02/1988;38,0;Masculino;Parda;Caratinga;Caratinga;V298;MOTOCICLISTA OUTR ACID TRANSP ESPEC
 15/07/2026;23/09/1953;72,0;Masculino;Parda;Rio Piracicaba;Rio Piracicaba;V445;CONDUTOR ACID TRANS
 15/07/2026;26/04/1960;66,0;Masculino;Branca;Guiricema;Ubá;V892;ACID TRANS VEIC MOT NE
+15/07/2026;13/04/2010;16,0;Feminino;Branca;São José da Safira;São José da Safira;V899;ACID VEIC NE
 15/07/2026;02/10/1989;36,0;Masculino;Parda;Ubá;Ubá;V899;ACID VEIC NE
 15/07/2026;18/12/1997;28,0;Masculino;Parda;Montes Claros;Montes Claros;V899;ACID VEIC NE
 15/07/2026;15/04/1975;51,0;Masculino;Parda;Salinas;Diamantina;V899;ACID VEIC NE
 15/07/2026;03/06/2000;26,0;Feminino;Preta;Itamarati de Minas;Simão Pereira;V99;ACID TRANSP NE
 15/07/2026;09/06/1950;76,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V99;ACID TRANSP NE
+16/07/2026;;;Masculino;Preta;;Congonhas;V051;ACID TRANS
+16/07/2026;27/08/1996;29,0;Masculino;Parda;Urucânia;Ponte Nova;V099;ACID TRANSP NE
 16/07/2026;24/12/1948;77,0;Masculino;Preta;Ubá;Ubá;V144;CONDUTOR EM ACID TRANS
 16/07/2026;29/06/1978;48,0;Masculino;Parda;Uberlândia;Uberlândia;V299;MOTOCICLISTA ACID TRANS NE
 16/07/2026;05/09/1981;44,0;Masculino;Branca;Ribeirão das Neves;Uberaba;V645;CONDUTOR ACID TRANS
+16/07/2026;19/11/1971;54,0;Masculino;Parda;Manhuaçu;Simonésia;V699;OCUPANTE ACID TRANS NE
 16/07/2026;08/03/1945;81,0;Masculino;Branca;Esmeraldas;Montes Claros;V899;ACID VEIC NE
 17/07/2026;21/07/2022;3,0;Masculino;Parda;Nova Lima;Nova Lima;V031;ACID TRANS
 17/07/2026;06/05/2005;21,0;Masculino;Branca;São Domingos das Dores;São Domingos das Dores;V234;CONDUTOR ACID TRANS
@@ -61952,6 +62026,7 @@
 18/07/2026;05/09/1947;78,0;Masculino;Preta;Conselheiro Lafaiete;Barbacena;V039;ACID NE SE TRANS OU NAO-TRANS
 18/07/2026;28/02/2002;24,0;Masculino;Branca;Patos de Minas;Patos de Minas;V134;CONDUTOR EM ACID TRANS
 18/07/2026;16/08/1968;57,0;Masculino;Parda;Curvelo;Curvelo;V224;CONDUTOR ACID TRANS
+18/07/2026;24/03/1996;30,0;Masculino;Parda;Salinas;Taiobeiras;V230;CONDUTOR ACID N-TRANS
 18/07/2026;09/12/1999;26,0;Masculino;Parda;Belo Oriente;Açucena;V234;CONDUTOR ACID TRANS
 18/07/2026;04/07/2000;26,0;Feminino;Branca;Pouso Alegre;Bandeira do Sul;V234;CONDUTOR ACID TRANS
 18/07/2026;11/05/2006;20,0;Feminino;Branca;Pouso Alegre;Bandeira do Sul;V235;PASSAGEIRO ACID TRANS
@@ -61959,22 +62034,24 @@
 18/07/2026;18/05/1962;64,0;Masculino;Parda;Araxá;Araxá;V435;CONDUTOR ACID TRANS
 18/07/2026;29/06/1976;50,0;Masculino;Parda;Sacramento;Sacramento;V445;CONDUTOR ACID TRANS
 19/07/2026;17/09/1989;36,0;Feminino;Branca;Uberaba;Uberaba;V021;ACID TRANS
+19/07/2026;25/12/1992;33,0;Feminino;Branca;Turmalina;Turmalina;V299;MOTOCICLISTA ACID TRANS NE
+19/07/2026;26/08/1995;30,0;Masculino;Branca;Oliveira Fortes;Oliveira Fortes;V499;OCUPANTE ACID TRANS NE
 19/07/2026;18/06/1967;59,0;Masculino;Branca;Santa Rita do Sapucaí;Santa Rita do Sapucaí;V499;OCUPANTE ACID TRANS NE
 19/07/2026;04/08/1973;52,0;Masculino;Parda;Araxá;;V685;CONDUTOR ACID TRANS
 19/07/2026;26/10/1987;38,0;Masculino;Preta;São Pedro do Suaçuí;;V892;ACID TRANS VEIC MOT NE
+20/07/2026;09/09/1967;58,0;Masculino;Parda;Uberlândia;;V021;ACID TRANS
 20/07/2026;01/11/1985;40,0;Masculino;Preta;São João Del Rei;São João Del Rei;V049;ACID NE SE TRANS OU NAO-TRANS
 20/07/2026;17/07/2005;21,0;Masculino;Branca;Ewbank da Câmara;Juiz de Fora;V051;ACID TRANS
-20/07/2026;09/09/1967;58,0;Masculino;Parda;Uberlândia;;V092;ACID TRANS ENVOLV OUTR VEIC E NE A MOTOR
 20/07/2026;20/01/1965;61,0;Masculino;Parda;Ubá;Ubá;V199;CICLISTA ACID TRANS NE
 20/07/2026;12/10/1980;45,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V219;MOTOCICLISTA NE ACID TRANS
 20/07/2026;03/08/1999;26,0;Masculino;Parda;Januária;Januária;V274;CONDUTOR ACID TRANS
+20/07/2026;22/07/1993;32,0;Masculino;Branca;Paraopeba;Paraopeba;V284;CONDUTOR ACID TRANS
 20/07/2026;16/08/1972;53,0;Masculino;Branca;Contagem;;V285;PASSAGEIRO ACID TRANS
 20/07/2026;28/10/2001;24,0;Masculino;Parda;Peçanha;;V299;MOTOCICLISTA ACID TRANS NE
 20/07/2026;09/06/1988;38,0;Masculino;Preta;Pará de Minas;Divinópolis;V299;MOTOCICLISTA ACID TRANS NE
 20/07/2026;01/05/1973;53,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V439;OCUPANTE NE ACID TRANS
 20/07/2026;03/05/1960;66,0;Masculino;Branca;Uberlândia;Uberlândia;V499;OCUPANTE ACID TRANS NE
 20/07/2026;09/05/1991;35,0;Masculino;Parda;Uberlândia;Uberlândia;V874;COLIS ENTRE AUTOMOVEL E VEIC TRANSP PESADO
-20/07/2026;22/07/1993;32,0;Masculino;Branca;Paraopeba;Paraopeba;V899;ACID VEIC NE
 21/07/2026;01/10/1963;62,0;Masculino;Parda;São Francisco;São Francisco;V219;MOTOCICLISTA NE ACID TRANS
 21/07/2026;27/12/1992;33,0;Feminino;Branca;Resplendor;;V436;PASSAGEIRO ACID TRANS
 21/07/2026;01/03/2004;22,0;Masculino;Parda;Claro dos Poções;Claro dos Poções;V439;OCUPANTE NE ACID TRANS
@@ -61992,6 +62069,7 @@
 22/07/2026;21/12/1998;27,0;Feminino;Parda;São Francisco;Brasília de Minas;V99;ACID TRANSP NE
 23/07/2026;15/02/1947;79,0;Masculino;Preta;Juiz de Fora;Juiz de Fora;V051;ACID TRANS
 23/07/2026;03/02/1996;30,0;Feminino;Branca;São Lourenço;São Lourenço;V235;PASSAGEIRO ACID TRANS
+23/07/2026;20/04/1978;48,0;Masculino;Preta;Capitão Andrade;Capitão Andrade;V284;CONDUTOR ACID TRANS
 23/07/2026;31/03/1948;78,0;Masculino;Branca;Bonfinópolis de Minas;Bonfinópolis de Minas;V445;CONDUTOR ACID TRANS
 24/07/2026;14/12/1995;30,0;Masculino;Branca;Ouro Fino;Ouro Fino;V201;PASSAGEIRO ACID N-TRANS
 24/07/2026;30/04/1990;36,0;Feminino;Branca;Araxá;Araxá;V234;CONDUTOR ACID TRANS
@@ -62006,32 +62084,43 @@
 24/07/2026;13/04/1979;47,0;Masculino;Parda;Iguatama;Arcos;V899;ACID VEIC NE
 24/07/2026;04/10/1975;50,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V99;ACID TRANSP NE
 25/07/2026;26/08/1974;51,0;Masculino;Branca;Poços de Caldas;Poços de Caldas;V239;MOTOCICLISTA NE ACID TRANS
+25/07/2026;04/02/1985;41,0;Masculino;Parda;Caratinga;Caratinga;V244;CONDUTOR ACID TRANS
 25/07/2026;12/07/2001;25,0;Masculino;Parda;Capelinha;Capelinha;V284;CONDUTOR ACID TRANS
 25/07/2026;08/08/2002;23,0;Feminino;Parda;Ouro Preto;Contagem;V299;MOTOCICLISTA ACID TRANS NE
 25/07/2026;09/05/1995;31,0;Masculino;Branca;Lagoa da Prata;Lagoa da Prata;V474;PESSOA AO SUBIR OU DESCER DO VEIC
 25/07/2026;16/02/1979;47,0;Masculino;Branca;Pimenta;Formiga;V899;ACID VEIC NE
 26/07/2026;23/11/1998;27,0;Masculino;Parda;Pedro Leopoldo;Pedro Leopoldo;V234;CONDUTOR ACID TRANS
 26/07/2026;01/08/1981;44,0;Masculino;Preta;Pará de Minas;Pará de Minas;V234;CONDUTOR ACID TRANS
+26/07/2026;15/03/2007;19,0;Masculino;Parda;Inhapim;Caratinga;V244;CONDUTOR ACID TRANS
 26/07/2026;20/10/1971;54,0;Masculino;Parda;Inhapim;Inhapim;V244;CONDUTOR ACID TRANS
 26/07/2026;30/07/1984;41,0;Masculino;Parda;Uberlândia;Uberlândia;V249;MOTOCICLISTA NE ACID TRANS
+26/07/2026;14/06/1996;30,0;Masculino;Parda;Jenipapo de Minas;Jenipapo de Minas;V299;MOTOCICLISTA ACID TRANS NE
 26/07/2026;19/08/1990;35,0;Masculino;Branca;Marliéria;Marliéria;V485;CONDUTOR ACID TRANS
 26/07/2026;12/09/1955;70,0;Masculino;Branca;Uberaba;Uberaba;V585;CONDUTOR ACID TRANS
 27/07/2026;19/11/1997;28,0;Feminino;Parda;Unaí;Patos de Minas;V041;ACID TRANS
+27/07/2026;10/08/1943;82,0;Masculino;Branca;Três Marias;Três Marias;V099;ACID TRANSP NE
+27/07/2026;19/04/1985;41,0;Masculino;Parda;Almenara;Teófilo Otoni;V445;CONDUTOR ACID TRANS
+27/07/2026;09/04/2026;0,0;Masculino;Parda;Boa Esperança;Boa Esperança;V446;PASSAGEIRO ACID TRANS
 27/07/2026;04/03/2002;24,0;Feminino;Preta;Boa Esperança;Varginha;V449;OCUPANTE NE ACID TRANS
+27/07/2026;08/04/1990;36,0;Masculino;Branca;Betim;Betim;V479;OCUPANTE NE ACID TRANS
 27/07/2026;15/11/1998;27,0;Masculino;Parda;Ubaí;Brasília de Minas;V485;CONDUTOR ACID TRANS
 28/07/2026;10/11/1997;28,0;Masculino;Preta;Juiz de Fora;Juiz de Fora;V249;MOTOCICLISTA NE ACID TRANS
 28/07/2026;24/06/1998;28,0;Masculino;Preta;Uberaba;Uberaba;V274;CONDUTOR ACID TRANS
 28/07/2026;03/02/2005;21,0;Feminino;Preta;Várzea da Palma;Várzea da Palma;V899;ACID VEIC NE
 29/07/2026;06/03/1955;71,0;Feminino;Parda;Coronel Fabriciano;Coronel Fabriciano;V031;ACID TRANS
 29/07/2026;21/10/1979;46,0;Masculino;Branca;Contagem;Betim;V049;ACID NE SE TRANS OU NAO-TRANS
+29/07/2026;30/09/2003;22,0;Masculino;Parda;Coronel Fabriciano;Ipatinga;V234;CONDUTOR ACID TRANS
 29/07/2026;02/12/1966;59,0;Masculino;Parda;Virginópolis;Diamantina;V234;CONDUTOR ACID TRANS
+29/07/2026;28/12/1994;31,0;Masculino;Parda;Salinas;Salinas;V244;CONDUTOR ACID TRANS
 29/07/2026;14/12/1994;31,0;Masculino;Branca;Alfenas;Alfenas;V274;CONDUTOR ACID TRANS
 29/07/2026;05/04/1991;35,0;Masculino;Branca;Pratinha;Uberaba;V435;CONDUTOR ACID TRANS
 29/07/2026;11/03/1972;54,0;Masculino;Branca;Oliveira;Oliveira;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 29/07/2026;20/02/2005;21,0;Masculino;Branca;Bom Despacho;Bom Despacho;V499;OCUPANTE ACID TRANS NE
 29/07/2026;28/03/1958;68,0;Masculino;Branca;Presidente Olegário;Presidente Olegário;V849;OCUPANTE NE ACID N-TRANS
 30/07/2026;27/05/1987;39,0;Masculino;Parda;Arinos;Arinos;V204;CONDUTOR ACID TRANS
+30/07/2026;09/03/2002;24,0;Feminino;Branca;Taiobeiras;Taiobeiras;V234;CONDUTOR ACID TRANS
 30/07/2026;23/03/1991;35,0;Masculino;Branca;Lima Duarte;Juiz de Fora;V234;CONDUTOR ACID TRANS
+30/07/2026;23/01/1968;58,0;Masculino;Branca;Governador Valadares;Governador Valadares;V239;MOTOCICLISTA NE ACID TRANS
 30/07/2026;21/09/2005;20,0;Masculino;Branca;Santa Bárbara do Monte Verde;Rio Preto;V299;MOTOCICLISTA ACID TRANS NE
 30/07/2026;01/10/1978;47,0;Masculino;Preta;Porteirinha;Janaúba;V499;OCUPANTE ACID TRANS NE
 31/07/2026;31/10/1970;55,0;Masculino;Branca;Campos Gerais;Alfenas;V485;CONDUTOR ACID TRANS
@@ -62039,8 +62128,10 @@
 01/08/2026;20/04/1982;44,0;Masculino;Branca;Uberaba;Uberaba;V021;ACID TRANS
 01/08/2026;02/02/2010;16,0;Masculino;Branca;Congonhas;Congonhas;V050;ACID N-TRANS
 01/08/2026;23/09/1965;60,0;Masculino;Parda;Patos de Minas;Patos de Minas;V184;CONDUTOR EM ACID TRANS
+01/08/2026;26/10/2001;24,0;Masculino;Branca;Três Pontas;Três Pontas;V234;CONDUTOR ACID TRANS
 01/08/2026;24/05/2001;25,0;Masculino;Parda;Montes Claros;Montes Claros;V249;MOTOCICLISTA NE ACID TRANS
 01/08/2026;08/01/1996;30,0;Masculino;Branca;Araxá;Araxá;V274;CONDUTOR ACID TRANS
+01/08/2026;16/12/1970;55,0;Masculino;Branca;São Lourenço;Cristina;V280;CONDUTOR ACID N-TRANS
 01/08/2026;05/12/1954;71,0;Masculino;Parda;Bom Jesus do Galho;Bom Jesus do Galho;V299;MOTOCICLISTA ACID TRANS NE
 01/08/2026;14/11/1995;30,0;Masculino;Branca;Conselheiro Lafaiete;Conselheiro Lafaiete;V299;MOTOCICLISTA ACID TRANS NE
 01/08/2026;24/03/2000;26,0;Masculino;Branca;São João da Ponte;Montes Claros;V299;MOTOCICLISTA ACID TRANS NE
@@ -62054,11 +62145,11 @@
 02/08/2026;02/06/1997;29,0;Masculino;Parda;Curvelo;Curvelo;V099;ACID TRANSP NE
 02/08/2026;;;Masculino;Parda;Pirapora;Pirapora;V099;ACID TRANSP NE
 02/08/2026;19/03/1995;31,0;Masculino;Preta;Itatiaiuçu;Itatiaiuçu;V134;CONDUTOR EM ACID TRANS
-02/08/2026;24/02/1950;76,0;Feminino;Branca;Cachoeira Dourada;;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
-02/08/2026;02/03/1975;51,0;Feminino;Branca;Cachoeira Dourada;;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 02/08/2026;11/07/1973;53,0;Masculino;Branca;Divinópolis;Divinópolis;V499;OCUPANTE ACID TRANS NE
 02/08/2026;06/01/1996;30,0;Masculino;Branca;Lajinha;;V892;ACID TRANS VEIC MOT NE
 02/08/2026;05/08/1964;61,0;Masculino;Branca;Estiva;Pouso Alegre;V892;ACID TRANS VEIC MOT NE
+03/08/2026;17/10/1968;57,0;Masculino;Branca;Itaúna;Betim;V039;ACID NE SE TRANS OU NAO-TRANS
+03/08/2026;02/08/1945;81,0;Masculino;Branca;Três Pontas;Três Pontas;V093;ACID TRANS NE
 03/08/2026;30/12/1972;53,0;Masculino;Parda;Januária;Jaíba;V224;CONDUTOR ACID TRANS
 03/08/2026;19/09/1975;50,0;Masculino;Parda;Jaíba;Jaíba;V224;CONDUTOR ACID TRANS
 03/08/2026;06/03/2008;18,0;Masculino;Parda;São Francisco;São Francisco;V249;MOTOCICLISTA NE ACID TRANS
@@ -62068,43 +62159,70 @@
 03/08/2026;21/10/1970;55,0;Feminino;Branca;Abaeté;Pitangui;V496;OCUPANTE NE COLIS OUT VEIC NE MOT ACID TRANS
 03/08/2026;18/12/2000;25,0;Masculino;Parda;Nova Porteirinha;Janaúba;V892;ACID TRANS VEIC MOT NE
 04/08/2026;31/03/1974;52,0;Feminino;Preta;Pirapora;Pirapora;V099;ACID TRANSP NE
+04/08/2026;31/03/1985;41,0;Masculino;Branca;Governador Valadares;Governador Valadares;V239;MOTOCICLISTA NE ACID TRANS
 04/08/2026;06/03/2010;16,0;Feminino;Preta;Ubá;Ubá;V285;PASSAGEIRO ACID TRANS
 04/08/2026;24/03/1973;53,0;Feminino;Branca;Alfredo Vasconcelos;Patos de Minas;V499;OCUPANTE ACID TRANS NE
+04/08/2026;03/06/1999;27,0;Feminino;Parda;Pará de Minas;;V686;PASSAGEIRO ACID TRANS
 04/08/2026;29/11/1994;31,0;Masculino;Branca;Ouro Preto;Itabirito;V892;ACID TRANS VEIC MOT NE
 05/08/2026;29/05/1967;59,0;Masculino;Parda;Esmeraldas;Sete Lagoas;V021;ACID TRANS
 05/08/2026;03/10/2006;19,0;Masculino;Branca;Perdizes;Uberaba;V092;ACID TRANS ENVOLV OUTR VEIC E NE A MOTOR
 05/08/2026;03/12/1999;26,0;Masculino;Parda;Mariana;Belo Horizonte;V093;ACID TRANS NE
+05/08/2026;30/06/1960;66,0;Masculino;Branca;Resplendor;;V499;OCUPANTE ACID TRANS NE
 05/08/2026;21/06/1993;33,0;Masculino;Branca;Pedralva;Pedralva;V499;OCUPANTE ACID TRANS NE
 06/08/2026;23/04/1945;81,0;Masculino;Branca;Frutal;Frutal;V021;ACID TRANS
+06/08/2026;07/08/1967;58,0;Feminino;Branca;Barbacena;Barbacena;V031;ACID TRANS
+06/08/2026;10/05/1961;65,0;Masculino;Branca;Araguari;Araguari;V041;ACID TRANS
 06/08/2026;09/04/2007;19,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V041;ACID TRANS
-06/08/2026;10/05/1961;65,0;Masculino;Branca;Araguari;Araguari;V093;ACID TRANS NE
 06/08/2026;12/07/1998;28,0;Masculino;Parda;Belo Horizonte;Uberlândia;V499;OCUPANTE ACID TRANS NE
-06/08/2026;15/10/1993;32,0;Masculino;Branca;Araguari;Araguari;V499;OCUPANTE ACID TRANS NE
 06/08/2026;14/08/1970;55,0;Masculino;Branca;Maria da Fé;Maria da Fé;V499;OCUPANTE ACID TRANS NE
+06/08/2026;15/10/1993;32,0;Masculino;Branca;Araguari;Araguari;V685;CONDUTOR ACID TRANS
 06/08/2026;06/09/1992;33,0;Masculino;Parda;Rio Piracicaba;João Monlevade;V899;ACID VEIC NE
 07/08/2026;30/03/1968;58,0;Masculino;Parda;Contagem;Contagem;V021;ACID TRANS
 07/08/2026;05/06/1981;45,0;Masculino;Parda;Juiz de Fora;Juiz de Fora;V051;ACID TRANS
+07/08/2026;08/01/2001;25,0;Feminino;Parda;Santa Rita do Sapucaí;Santa Rita do Sapucaí;V235;PASSAGEIRO ACID TRANS
+07/08/2026;25/07/2008;18,0;Masculino;Parda;Boa Esperança;Boa Esperança;V274;CONDUTOR ACID TRANS
 08/08/2026;16/05/1976;50,0;Masculino;Parda;Sete Lagoas;Sete Lagoas;V031;ACID TRANS
 08/08/2026;27/01/1965;61,0;Masculino;Branca;Coronel Fabriciano;Coronel Fabriciano;V031;ACID TRANS
+08/08/2026;24/09/1969;56,0;Masculino;Parda;Tupaciguara;Tupaciguara;V184;CONDUTOR EM ACID TRANS
 08/08/2026;10/06/1981;45,0;Masculino;Parda;Itaúna;Itaúna;V234;CONDUTOR ACID TRANS
+08/08/2026;08/04/1991;35,0;Masculino;Parda;Felisburgo;Felisburgo;V299;MOTOCICLISTA ACID TRANS NE
+08/08/2026;06/03/1952;74,0;Feminino;Branca;Montes Claros;Matias Cardoso;V499;OCUPANTE ACID TRANS NE
 09/08/2026;11/03/1965;61,0;Masculino;Branca;Muriaé;Muriaé;V021;ACID TRANS
 09/08/2026;10/08/2010;15,0;Masculino;Parda;São Gotardo;Patos de Minas;V031;ACID TRANS
 09/08/2026;09/11/1975;50,0;Masculino;Branca;Juiz de Fora;Juiz de Fora;V090;ACID N-TRANS ENVOLV OUTR VEIC MOTOR E NE
+09/08/2026;05/11/1948;77,0;Masculino;Parda;Araguari;Araguari;V180;CONDUTOR EM ACID N-TRANS
 09/08/2026;19/04/1991;35,0;Masculino;Branca;Itaúna;Divinópolis;V209;MOTOCICLISTA NE ACID TRANS
 09/08/2026;13/03/1993;33,0;Feminino;Parda;Matipó;Manhuaçu;V235;PASSAGEIRO ACID TRANS
 09/08/2026;17/03/1961;65,0;Masculino;Branca;Alfenas;Alfenas;V270;CONDUTOR ACID N-TRANS
+09/08/2026;01/12/2001;24,0;Masculino;Preta;Ponte Nova;Ponte Nova;V284;CONDUTOR ACID TRANS
+09/08/2026;30/08/1994;31,0;Masculino;Parda;Montes Claros;Claro dos Poções;V299;MOTOCICLISTA ACID TRANS NE
 09/08/2026;16/08/1995;30,0;Masculino;Branca;Araxá;Uberaba;V439;OCUPANTE NE ACID TRANS
 09/08/2026;30/12/1967;58,0;Masculino;Parda;Uberaba;Uberaba;V475;CONDUTOR ACID TRANS
 09/08/2026;20/11/2002;23,0;Masculino;Parda;Uberlândia;Uberaba;V685;CONDUTOR ACID TRANS
 10/08/2026;24/02/2002;24,0;Masculino;Preta;Ribeirão das Neves;Contagem;V244;CONDUTOR ACID TRANS
 10/08/2026;12/06/2007;19,0;Masculino;Parda;Ipatinga;Ipatinga;V244;CONDUTOR ACID TRANS
+10/08/2026;29/05/1946;80,0;Masculino;Branca;Iraí de Minas;Patrocínio;V294;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
+10/08/2026;24/09/1995;30,0;Masculino;Parda;Conselheiro Lafaiete;Conselheiro Lafaiete;V440;CONDUTOR ACID N-TRANS
+10/08/2026;27/12/2006;19,0;Masculino;Branca;Manhuaçu;Simonésia;V499;OCUPANTE ACID TRANS NE
+10/08/2026;28/08/1988;37,0;Masculino;Parda;Morada Nova de Minas;Morada Nova de Minas;V674;PESSOA AO SUBIR OU DESCER DO VEIC
+11/08/2026;13/01/1964;62,0;Masculino;Parda;Jampruca;Governador Valadares;V239;MOTOCICLISTA NE ACID TRANS
+11/08/2026;10/06/1947;79,0;Masculino;Branca;Prados;Barbacena;V249;MOTOCICLISTA NE ACID TRANS
 11/08/2026;05/04/1967;59,0;Masculino;Branca;Raul Soares;Santa Rita de Minas;V435;CONDUTOR ACID TRANS
 11/08/2026;14/08/1976;49,0;Masculino;Preta;Belo Horizonte;Divinópolis;V499;OCUPANTE ACID TRANS NE
 12/08/2026;15/06/1967;59,0;Masculino;Preta;Jaíba;Jaíba;V199;CICLISTA ACID TRANS NE
+12/08/2026;04/08/1992;34,0;Masculino;Branca;Andradas;Poços de Caldas;V249;MOTOCICLISTA NE ACID TRANS
 12/08/2026;06/06/1956;70,0;Masculino;Parda;Bocaiúva;Bocaiúva;V249;MOTOCICLISTA NE ACID TRANS
+12/08/2026;10/08/1986;40,0;Masculino;Parda;Coimbra;Ponte Nova;V299;MOTOCICLISTA ACID TRANS NE
 12/08/2026;08/01/1987;39,0;Feminino;Branca;São João Del Rei;São João Del Rei;V299;MOTOCICLISTA ACID TRANS NE
+13/08/2026;07/01/2016;10,0;Masculino;Branca;Piraúba;Piraúba;V02;PEDESTRE TRAUM COLIS VEIC MOTOR 2 3 RODAS
+13/08/2026;16/07/1972;54,0;Masculino;Branca;Muriaé;Muriaé;V144;CONDUTOR EM ACID TRANS
 13/08/2026;09/03/1945;81,0;Feminino;Parda;Santana do Manhuaçu;Manhuaçu;V444;PESSOA AO SUBIR OU DESCER DO VEIC
+13/08/2026;04/07/1984;42,0;Masculino;Parda;Araguari;Araguari;V99;ACID TRANSP NE
+14/08/2026;22/03/1978;48,0;Masculino;Branca;Barbacena;Barbacena;V031;ACID TRANS
+14/08/2026;16/03/1983;43,0;Masculino;Parda;Juiz de Fora;;V051;ACID TRANS
 14/08/2026;25/11/1954;71,0;Masculino;Parda;Lagoa Formosa;Patos de Minas;V124;CONDUTOR EM ACID TRANS
+14/08/2026;09/10/1961;64,0;Masculino;Preta;Sete Lagoas;Sete Lagoas;V193;CICLISTA ACID NE E N-TRANS
+14/08/2026;08/12/1986;39,0;Masculino;Parda;Manhuaçu;;V234;CONDUTOR ACID TRANS
 14/08/2026;22/09/1972;53,0;Masculino;Branca;Varginha;Varginha;V239;MOTOCICLISTA NE ACID TRANS
 14/08/2026;15/08/1948;77,0;Masculino;Parda;Coronel Fabriciano;Ipatinga;V439;OCUPANTE NE ACID TRANS
 14/08/2026;01/02/2005;21,0;Masculino;Branca;Itaúna;Itaúna;V471;PASSAGEIRO ACID N-TRANS
@@ -62112,8 +62230,12 @@
 14/08/2026;25/11/2008;17,0;Feminino;Parda;São José do Alegre;Itajubá;V800;ACID TRANS S/COLIS
 14/08/2026;01/05/1968;58,0;Masculino;Parda;Janaúba;Janaúba;V892;ACID TRANS VEIC MOT NE
 14/08/2026;20/11/1943;82,0;Feminino;Branca;Nova Serrana;Divinópolis;V899;ACID VEIC NE
-15/08/2026;29/08/1962;63,0;Masculino;Branca;Itajubá;Itajubá;V189;CICLISTA NE EM ACID TRANS
+15/08/2026;20/05/1969;57,0;Masculino;Preta;Poços de Caldas;Poços de Caldas;V031;ACID TRANS
+15/08/2026;29/08/1962;63,0;Masculino;Branca;Itajubá;Itajubá;V170;CONDUTOR EM ACID N-TRANS
+15/08/2026;03/02/1996;30,0;Masculino;Preta;Teófilo Otoni;Teófilo Otoni;V224;CONDUTOR ACID TRANS
 15/08/2026;28/03/1962;64,0;Masculino;Parda;Carmo do Paranaíba;Patos de Minas;V284;CONDUTOR ACID TRANS
+15/08/2026;27/05/1943;83,0;Feminino;Branca;Poços de Caldas;Poços de Caldas;V439;OCUPANTE NE ACID TRANS
+15/08/2026;11/01/1946;80,0;Feminino;Branca;Poços de Caldas;Poços de Caldas;V439;OCUPANTE NE ACID TRANS
 15/08/2026;04/01/1982;44,0;Masculino;Branca;Uberlândia;Uberlândia;V499;OCUPANTE ACID TRANS NE
 15/08/2026;07/09/1978;47,0;Masculino;Parda;Mutum;Manhuaçu;V499;OCUPANTE ACID TRANS NE
 15/08/2026;10/06/1964;62,0;Feminino;Branca;Arapuá;Patos de Minas;V892;ACID TRANS VEIC MOT NE
@@ -62123,52 +62245,209 @@
 16/08/2026;01/06/2004;22,0;Feminino;Parda;Jaíba;Jaíba;V274;CONDUTOR ACID TRANS
 16/08/2026;02/02/2001;25,0;Masculino;Parda;Montes Claros;Montes Claros;V299;MOTOCICLISTA ACID TRANS NE
 16/08/2026;23/07/1970;56,0;Masculino;Parda;Araxá;Perdizes;V435;CONDUTOR ACID TRANS
+16/08/2026;04/10/1951;74,0;Feminino;Preta;Santa Bárbara do Tugúrio;Santa Bárbara do Tugúrio;V437;PESSOA VIAJANDO EXT VEIC ACID TRANS
 16/08/2026;05/09/1971;54,0;Masculino;Branca;Estrela do Sul;Uberlândia;V439;OCUPANTE NE ACID TRANS
+16/08/2026;14/02/1979;47,0;Masculino;Parda;Rio Pardo de Minas;Rio Pardo de Minas;V485;CONDUTOR ACID TRANS
+16/08/2026;30/07/1961;65,0;Masculino;Branca;Santa Bárbara do Tugúrio;Santa Bárbara do Tugúrio;V494;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
 16/08/2026;27/12/2023;2,0;Masculino;Branca;Curvelo;Janaúba;V499;OCUPANTE ACID TRANS NE
 16/08/2026;22/09/1978;47,0;Masculino;Branca;Uberlândia;Uberlândia;V499;OCUPANTE ACID TRANS NE
 16/08/2026;16/01/1966;60,0;Masculino;Parda;Uberlândia;Uberlândia;V499;OCUPANTE ACID TRANS NE
 16/08/2026;17/10/1988;37,0;Feminino;Parda;Uberlândia;Uberlândia;V499;OCUPANTE ACID TRANS NE
+16/08/2026;31/07/1993;33,0;Feminino;Parda;Belo Horizonte;;V799;OCUPANTE ACID TRANS NE
+16/08/2026;27/01/2019;7,0;Feminino;Preta;Belo Horizonte;;V799;OCUPANTE ACID TRANS NE
+16/08/2026;09/08/1988;38,0;Feminino;Branca;Belo Horizonte;;V799;OCUPANTE ACID TRANS NE
+16/08/2026;14/10/1990;35,0;Feminino;Parda;Belo Horizonte;;V799;OCUPANTE ACID TRANS NE
+16/08/2026;27/01/1973;53,0;Feminino;Parda;Belo Horizonte;;V799;OCUPANTE ACID TRANS NE
+16/08/2026;25/05/1993;33,0;Feminino;Parda;Belo Horizonte;;V799;OCUPANTE ACID TRANS NE
+17/08/2026;12/07/1957;69,0;Feminino;Parda;Teófilo Otoni;Teófilo Otoni;V021;ACID TRANS
+17/08/2026;07/10/2016;9,0;Masculino;Parda;Francisco Sá;Francisco Sá;V031;ACID TRANS
+17/08/2026;15/06/2023;3,0;Feminino;Parda;Francisco Sá;Francisco Sá;V031;ACID TRANS
+17/08/2026;14/07/1972;54,0;Masculino;Parda;Francisco Sá;Francisco Sá;V031;ACID TRANS
 17/08/2026;04/02/1961;65,0;Masculino;Branca;Contagem;Contagem;V031;ACID TRANS
+17/08/2026;01/06/1963;63,0;Masculino;Parda;Patrocínio;Patrocínio;V090;ACID N-TRANS ENVOLV OUTR VEIC MOTOR E NE
 17/08/2026;29/04/1969;57,0;Feminino;Branca;Rio Pardo de Minas;Rio Pardo de Minas;V299;MOTOCICLISTA ACID TRANS NE
 17/08/2026;07/05/2005;21,0;Feminino;Branca;Itaúna;Divinópolis;V499;OCUPANTE ACID TRANS NE
 17/08/2026;09/09/1977;48,0;Masculino;Parda;Pará de Minas;Pará de Minas;V892;ACID TRANS VEIC MOT NE
 17/08/2026;09/09/1959;66,0;Masculino;Branca;Pará de Minas;Pará de Minas;V892;ACID TRANS VEIC MOT NE
+18/08/2026;12/12/1941;84,0;Masculino;Parda;Corinto;Curvelo;V189;CICLISTA NE EM ACID TRANS
+18/08/2026;17/07/1988;38,0;Feminino;Parda;Caeté;Caeté;V446;PASSAGEIRO ACID TRANS
+18/08/2026;29/01/2023;3,0;Masculino;Branca;Caeté;Caeté;V446;PASSAGEIRO ACID TRANS
 18/08/2026;14/10/1985;40,0;Masculino;Branca;Belo Horizonte;;V475;CONDUTOR ACID TRANS
 18/08/2026;08/05/1963;63,0;Feminino;Branca;Belo Horizonte;;V476;PASSAGEIRO ACID TRANS
 18/08/2026;11/09/1999;26,0;Masculino;Parda;Montes Claros;Montes Claros;V499;OCUPANTE ACID TRANS NE
 18/08/2026;26/06/1984;42,0;Masculino;Branca;Liberdade;Juiz de Fora;V99;ACID TRANSP NE
+19/08/2026;18/04/1995;31,0;Masculino;Parda;Sete Lagoas;Sete Lagoas;V234;CONDUTOR ACID TRANS
+19/08/2026;12/10/1981;44,0;Masculino;Preta;Serro;Serro;V445;CONDUTOR ACID TRANS
+19/08/2026;05/08/1969;57,0;Masculino;Parda;Carmo de Minas;Olímpio Noronha;V499;OCUPANTE ACID TRANS NE
 19/08/2026;08/11/1983;42,0;Masculino;Branca;Bambuí;Bambuí;V699;OCUPANTE ACID TRANS NE
 19/08/2026;13/09/1940;85,0;Masculino;Parda;Pirapora;Montes Claros;V892;ACID TRANS VEIC MOT NE
 19/08/2026;23/02/1984;42,0;Masculino;Parda;Paracatu;Patos de Minas;V892;ACID TRANS VEIC MOT NE
+20/08/2026;11/05/1969;57,0;Feminino;Preta;Aimorés;Aimorés;V059;ACID NE SE TRANS OU NAO-TRANS
+20/08/2026;20/04/1962;64,0;Masculino;Branca;Mato Verde;Mato Verde;V149;CICLISTA NE EM ACID TRANS
+20/08/2026;16/06/2006;20,0;Masculino;Parda;Capelinha;Diamantina;V24;MOTOCICL TRAUM COLIS VEIC TRANSP PESADO ONIB
 21/08/2026;10/07/1988;38,0;Masculino;Branca;Carmo do Paranaíba;Carmo do Paranaíba;V189;CICLISTA NE EM ACID TRANS
 21/08/2026;29/07/2005;21,0;Masculino;Branca;Rio Paranaíba;Rio Paranaíba;V239;MOTOCICLISTA NE ACID TRANS
 21/08/2026;19/11/1967;58,0;Masculino;Parda;Montes Claros;Montes Claros;V299;MOTOCICLISTA ACID TRANS NE
+21/08/2026;02/02/1976;50,0;Masculino;Parda;Muriaé;Muriaé;V445;CONDUTOR ACID TRANS
+21/08/2026;22/01/1942;84,0;Feminino;Branca;Juiz de Fora;Juiz de Fora;V475;CONDUTOR ACID TRANS
+21/08/2026;28/06/1986;40,0;Masculino;Branca;Araguari;;V645;CONDUTOR ACID TRANS
+21/08/2026;10/02/1984;42,0;Masculino;Parda;Teófilo Otoni;Muriaé;V745;CONDUTOR ACID TRANS
+21/08/2026;30/04/1979;47,0;Masculino;Parda;Abre Campo;Manhuaçu;V892;ACID TRANS VEIC MOT NE
+22/08/2026;23/08/1995;30,0;Masculino;Branca;Lavras;Lavras;V041;ACID TRANS
 22/08/2026;16/11/1978;47,0;Masculino;Branca;Itaúna;Itaúna;V120;CONDUTOR EM ACID N-TRANS
+22/08/2026;04/07/1974;52,0;Masculino;Branca;Carandaí;Ressaquinha;V892;ACID TRANS VEIC MOT NE
+22/08/2026;23/04/1965;61,0;Masculino;Branca;Ouro Fino;Ouro Fino;V99;ACID TRANSP NE
+22/08/2026;24/08/1964;61,0;Masculino;Branca;Araguari;Araguari;V99;ACID TRANSP NE
+23/08/2026;19/01/1995;31,0;Masculino;Parda;Lagoa Formosa;Lagoa Formosa;V031;ACID TRANS
 23/08/2026;01/10/2007;18,0;Masculino;Parda;Santo Antônio do Amparo;Oliveira;V279;MOTOCICLISTA NE ACID TRANS
 23/08/2026;19/02/1986;40,0;Masculino;Parda;Pitangui;Pitangui;V499;OCUPANTE ACID TRANS NE
+24/08/2026;03/02/2011;15,0;Feminino;Branca;Piranguinho;Piranguinho;V031;ACID TRANS
+24/08/2026;26/08/1966;59,0;Masculino;Parda;Ipatinga;Belo Oriente;V093;ACID TRANS NE
+24/08/2026;25/12/1971;54,0;Masculino;Parda;Teófilo Otoni;Teófilo Otoni;V234;CONDUTOR ACID TRANS
+24/08/2026;15/11/1967;58,0;Masculino;Branca;Carandaí;Alfredo Vasconcelos;V299;MOTOCICLISTA ACID TRANS NE
 24/08/2026;31/01/1996;30,0;Masculino;Branca;Bueno Brandão;Santa Rita do Sapucaí;V449;OCUPANTE NE ACID TRANS
+24/08/2026;29/04/1985;41,0;Feminino;Parda;Ipatinga;Ipatinga;V899;ACID VEIC NE
 25/08/2026;13/06/1995;31,0;Masculino;Branca;Uberlândia;Uberlândia;V093;ACID TRANS NE
+25/08/2026;17/05/1969;57,0;Feminino;Parda;Governador Valadares;Governador Valadares;V419;OCUPANTE NE ACID TRANS
+25/08/2026;01/08/1962;64,0;Masculino;Branca;Limeira do Oeste;Limeira do Oeste;V435;CONDUTOR ACID TRANS
+26/08/2026;13/04/1959;67,0;Masculino;Parda;Juiz de Fora;Juiz de Fora;V184;CONDUTOR EM ACID TRANS
 26/08/2026;18/08/1999;27,0;Masculino;Branca;Ituiutaba;Ituiutaba;V234;CONDUTOR ACID TRANS
+26/08/2026;20/07/1951;75,0;Feminino;Branca;Belo Horizonte;;V892;ACID TRANS VEIC MOT NE
+26/08/2026;22/04/1956;70,0;Masculino;Branca;Belo Horizonte;;V892;ACID TRANS VEIC MOT NE
+26/08/2026;31/10/1951;74,0;Feminino;Parda;Belo Horizonte;;V892;ACID TRANS VEIC MOT NE
+27/08/2026;08/01/1977;49,0;Masculino;Parda;Paraopeba;Sete Lagoas;V284;CONDUTOR ACID TRANS
 27/08/2026;03/07/2007;19,0;Masculino;Parda;Uberlândia;Uberlândia;V299;MOTOCICLISTA ACID TRANS NE
 27/08/2026;15/09/1985;40,0;Masculino;Preta;São Gonçalo do Pará;São Gonçalo do Pará;V499;OCUPANTE ACID TRANS NE
 27/08/2026;03/03/1987;39,0;Masculino;Parda;Montes Claros;Montes Claros;V892;ACID TRANS VEIC MOT NE
+28/08/2026;26/06/1998;28,0;Masculino;Parda;Barroso;Barbacena;V249;MOTOCICLISTA NE ACID TRANS
 28/08/2026;27/01/1984;42,0;Masculino;Branca;Divinópolis;Divinópolis;V299;MOTOCICLISTA ACID TRANS NE
 28/08/2026;17/07/1989;37,0;Masculino;Branca;Araxá;Araxá;V444;PESSOA AO SUBIR OU DESCER DO VEIC
+28/08/2026;29/07/1986;40,0;Masculino;Parda;Olhos-D'água;Olhos-D'água;V499;OCUPANTE ACID TRANS NE
+28/08/2026;19/03/1962;64,0;Masculino;Branca;Caldas;Senador José Bento;V499;OCUPANTE ACID TRANS NE
 28/08/2026;19/03/1950;76,0;Masculino;Branca;Alfenas;Alfenas;V845;CONDUTOR ACID N-TRANS
+29/08/2026;13/03/1960;66,0;Masculino;Parda;Campos Gerais;Campos Gerais;V031;ACID TRANS
 29/08/2026;18/06/2004;22,0;Masculino;Branca;Poço Fundo;Poço Fundo;V234;CONDUTOR ACID TRANS
+29/08/2026;12/09/1996;29,0;Masculino;Parda;Felisburgo;;V244;CONDUTOR ACID TRANS
 29/08/2026;06/07/1986;40,0;Masculino;Parda;São João do Paraíso;Montes Claros;V299;MOTOCICLISTA ACID TRANS NE
+29/08/2026;24/03/1975;51,0;Masculino;Branca;Capinópolis;;V475;CONDUTOR ACID TRANS
 29/08/2026;27/12/1969;56,0;Masculino;Branca;Itaguara;Cláudio;V479;OCUPANTE NE ACID TRANS
 30/08/2026;30/04/1993;33,0;Masculino;Parda;Pitangui;Pitangui;V234;CONDUTOR ACID TRANS
+30/08/2026;25/04/1965;61,0;Masculino;Branca;Governador Valadares;Governador Valadares;V279;MOTOCICLISTA NE ACID TRANS
+30/08/2026;18/05/2000;26,0;Masculino;Parda;Paraguaçu;Paraguaçu;V435;CONDUTOR ACID TRANS
+30/08/2026;30/08/1996;30,0;Feminino;Parda;Paraguaçu;Paraguaçu;V436;PASSAGEIRO ACID TRANS
+30/08/2026;07/12/1995;30,0;Feminino;Branca;Areado;Paraguaçu;V436;PASSAGEIRO ACID TRANS
+30/08/2026;09/02/1985;41,0;Masculino;Parda;Santa Luzia;Sete Lagoas;V445;CONDUTOR ACID TRANS
+30/08/2026;30/08/2006;20,0;Masculino;Parda;Pouso Alegre;Silvianópolis;V499;OCUPANTE ACID TRANS NE
 30/08/2026;08/01/2008;18,0;Masculino;Parda;Ribeirão das Neves;Contagem;V499;OCUPANTE ACID TRANS NE
+30/08/2026;13/01/2010;16,0;Feminino;Branca;Belo Horizonte;Itabirito;V892;ACID TRANS VEIC MOT NE
+30/08/2026;22/11/1992;33,0;Masculino;Parda;São Tomás de Aquino;;V892;ACID TRANS VEIC MOT NE
 31/08/2026;22/04/1986;40,0;Feminino;Branca;Igaratinga;Igaratinga;V092;ACID TRANS ENVOLV OUTR VEIC E NE A MOTOR
 31/08/2026;21/03/1959;67,0;Masculino;Branca;Montes Claros;Montes Claros;V149;CICLISTA NE EM ACID TRANS
+31/08/2026;25/04/1960;66,0;Masculino;Branca;Ijaci;Lavras;V189;CICLISTA NE EM ACID TRANS
+31/08/2026;11/04/1964;62,0;Feminino;Branca;Patos de Minas;Patos de Minas;V436;PASSAGEIRO ACID TRANS
 31/08/2026;24/04/1993;33,0;Masculino;Parda;Pitangui;Divinópolis;V499;OCUPANTE ACID TRANS NE
 31/08/2026;27/11/1960;65,0;Masculino;Branca;Patrocínio;Uberlândia;V499;OCUPANTE ACID TRANS NE
+01/09/2026;24/01/1988;38,0;Feminino;Parda;Montes Claros;Montes Claros;V099;ACID TRANSP NE
 01/09/2026;16/03/1974;52,0;Masculino;Branca;Belo Horizonte;Córrego Danta;V499;OCUPANTE ACID TRANS NE
 01/09/2026;20/10/1973;52,0;Masculino;Parda;Pains;Divinópolis;V800;ACID TRANS S/COLIS
+02/09/2026;11/07/2010;16,0;Masculino;Preta;Viçosa;Viçosa;V274;CONDUTOR ACID TRANS
 02/09/2026;17/07/1985;41,0;Masculino;Parda;Montes Claros;Montes Claros;V299;MOTOCICLISTA ACID TRANS NE
+02/09/2026;19/05/1989;37,0;Feminino;Branca;Iturama;;V480;CONDUTOR ACID N-TRANS
+04/09/2026;05/02/2014;12,0;Masculino;Parda;Caetanópolis;Caetanópolis;V041;ACID TRANS
+04/09/2026;03/05/1958;68,0;Masculino;Branca;Pompéu;Curvelo;V575;CONDUTOR ACID TRANS
+04/09/2026;08/07/1948;78,0;Masculino;Branca;Pompéu;Curvelo;V576;PASSAGEIRO ACID TRANS
+04/09/2026;04/03/2002;24,0;Masculino;Branca;Pirapora;Pirapora;V877;COLIS ENTRE OUTR VEIC MOT ESP
+05/09/2026;22/08/1958;68,0;Masculino;Branca;Conceição do Rio Verde;São Lourenço;V049;ACID NE SE TRANS OU NAO-TRANS
+05/09/2026;03/04/1996;30,0;Masculino;Preta;Montes Claros;Montes Claros;V099;ACID TRANSP NE
+05/09/2026;13/03/1987;39,0;Masculino;Branca;Cuparaque;Governador Valadares;V229;MOTOCICLISTA NE ACID TRANS
+05/09/2026;11/12/1978;47,0;Masculino;Branca;Machado;Alfenas;V480;CONDUTOR ACID N-TRANS
+05/09/2026;26/08/1958;68,0;Masculino;Parda;Ipuiúna;Senador José Bento;V879;OUTR ACID TRANSP ESPEC ENVOLV VEIC N-MOT
+05/09/2026;16/07/1967;59,0;Masculino;Branca;Senador José Bento;Senador José Bento;V879;OUTR ACID TRANSP ESPEC ENVOLV VEIC N-MOT
+05/09/2026;29/11/1988;37,0;Masculino;Parda;Araxá;Ibiá;V899;ACID VEIC NE
 06/09/2026;18/07/1988;38,0;Masculino;Preta;Uberlândia;Uberlândia;V093;ACID TRANS NE
+06/09/2026;11/05/1991;35,0;Masculino;Parda;Uberlândia;Uberaba;V234;CONDUTOR ACID TRANS
+06/09/2026;25/01/1995;31,0;Masculino;Branca;Mateus Leme;Itaúna;V270;CONDUTOR ACID N-TRANS
+06/09/2026;29/01/2005;21,0;Masculino;Parda;Manhuaçu;Manhuaçu;V289;MOTOCICLISTA NE ACID TRANS
 06/09/2026;21/12/1974;51,0;Masculino;Branca;Itaguara;Oliveira;V299;MOTOCICLISTA ACID TRANS NE
+06/09/2026;30/05/1974;52,0;Masculino;Branca;Gonzaga;Governador Valadares;V892;ACID TRANS VEIC MOT NE
+07/09/2026;10/10/1973;52,0;Masculino;Branca;Arapuá;Arapuá;V234;CONDUTOR ACID TRANS
+08/09/2026;21/04/2000;26,0;Feminino;Parda;Sete Lagoas;Sete Lagoas;V204;CONDUTOR ACID TRANS
 08/09/2026;22/09/2001;24,0;Masculino;Branca;Divinópolis;Divinópolis;V294;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
+08/09/2026;22/08/1964;62,0;Masculino;Parda;Ouro Preto;Itabirito;V892;ACID TRANS VEIC MOT NE
+09/09/2026;15/07/1954;72,0;Feminino;Parda;Sete Lagoas;Sete Lagoas;V021;ACID TRANS
 09/09/2026;13/08/1971;55,0;Masculino;Parda;Nova Serrana;Nova Serrana;V139;CICLISTA NE EM ACID TRANS
+09/09/2026;30/04/1974;52,0;Masculino;Parda;Belo Horizonte;Belo Horizonte;V239;MOTOCICLISTA NE ACID TRANS
+09/09/2026;29/06/2002;24,0;Masculino;Parda;Santa Luzia;Itabira;V299;MOTOCICLISTA ACID TRANS NE
+09/09/2026;10/12/2005;20,0;Masculino;Parda;Mutum;;V892;ACID TRANS VEIC MOT NE
+10/09/2026;20/09/1991;34,0;Masculino;Parda;Baldim;Sete Lagoas;V486;PASSAGEIRO ACID TRANS
+10/09/2026;01/01/1955;71,0;Masculino;Parda;Pirapora;Pirapora;V878;OUTR ACID TRANSP ESPEC VEIC MOTOR S/COLIS
+10/09/2026;31/10/1983;42,0;Masculino;Parda;Lajinha;Manhuaçu;V892;ACID TRANS VEIC MOT NE
+10/09/2026;19/10/1986;39,0;Masculino;Branca;Unaí;Patos de Minas;V892;ACID TRANS VEIC MOT NE
+10/09/2026;23/02/1957;69,0;Feminino;Parda;Divinópolis;Divinópolis;V899;ACID VEIC NE
+11/09/2026;27/12/1963;62,0;Feminino;Branca;Cláudio;Oliveira;V099;ACID TRANSP NE
+11/09/2026;05/07/1995;31,0;Masculino;Parda;Governador Valadares;Governador Valadares;V289;MOTOCICLISTA NE ACID TRANS
+11/09/2026;15/09/1965;60,0;Masculino;Parda;Lagoa da Prata;Santo Antônio do Monte;V499;OCUPANTE ACID TRANS NE
 11/09/2026;01/02/1997;29,0;Feminino;Parda;Betim;Divinópolis;V684;PESSOA AO SUBIR OU DESCER DO VEIC
+12/09/2026;03/02/1968;58,0;Feminino;Parda;Itabira;Itabira;V021;ACID TRANS
+12/09/2026;07/03/1974;52,0;Masculino;Parda;Abre Campo;Manhuaçu;V892;ACID TRANS VEIC MOT NE
+12/09/2026;19/03/1962;64,0;Masculino;Branca;Montes Claros;Montes Claros;V899;ACID VEIC NE
+13/09/2026;24/09/2004;21,0;Feminino;Branca;Barbacena;Juiz de Fora;V285;PASSAGEIRO ACID TRANS
+13/09/2026;19/11/2008;17,0;Masculino;Parda;Joaíma;Joaíma;V496;OCUPANTE NE COLIS OUT VEIC NE MOT ACID TRANS
+13/09/2026;31/03/2005;21,0;Masculino;Parda;Joaíma;Joaíma;V496;OCUPANTE NE COLIS OUT VEIC NE MOT ACID TRANS
+13/09/2026;04/09/1982;44,0;Masculino;Preta;Morada Nova de Minas;Morada Nova de Minas;V892;ACID TRANS VEIC MOT NE
+13/09/2026;16/08/1984;42,0;Masculino;Branca;Capitólio;Formiga;V899;ACID VEIC NE
+14/09/2026;27/06/1964;62,0;Masculino;Branca;Uberlândia;Uberaba;V436;PASSAGEIRO ACID TRANS
+14/09/2026;08/09/1951;75,0;Masculino;Branca;Ibiá;Bambuí;V499;OCUPANTE ACID TRANS NE
+14/09/2026;04/04/2018;8,0;Masculino;Parda;Pirapora;Várzea da Palma;V878;OUTR ACID TRANSP ESPEC VEIC MOTOR S/COLIS
+14/09/2026;11/06/1988;38,0;Masculino;Parda;Montes Claros;Montes Claros;V899;ACID VEIC NE
+15/09/2026;13/11/2003;22,0;Masculino;Parda;Chácara;Juiz de Fora;V051;ACID TRANS
+15/09/2026;24/02/1941;85,0;Masculino;Branca;Divinópolis;Divinópolis;V099;ACID TRANSP NE
+15/09/2026;03/05/1981;45,0;Masculino;Parda;Uberlândia;Uberlândia;V499;OCUPANTE ACID TRANS NE
+15/09/2026;21/06/1952;74,0;Masculino;Parda;Patos de Minas;Patos de Minas;V892;ACID TRANS VEIC MOT NE
+15/09/2026;29/09/2001;24,0;Masculino;Parda;Espinosa;Montes Claros;V899;ACID VEIC NE
+16/09/2026;25/12/1957;68,0;Masculino;Branca;Itapagipe;;V099;ACID TRANSP NE
+16/09/2026;13/03/1981;45,0;Masculino;Parda;Nova Resende;Passos;V244;CONDUTOR ACID TRANS
+16/09/2026;11/04/2004;22,0;Masculino;Parda;Santa Rosa da Serra;Campos Altos;V445;CONDUTOR ACID TRANS
+17/09/2026;19/03/1941;85,0;Masculino;Branca;Governador Valadares;Governador Valadares;V892;ACID TRANS VEIC MOT NE
+18/09/2026;24/03/1955;71,0;Masculino;Branca;Poços de Caldas;;V435;CONDUTOR ACID TRANS
+18/09/2026;16/11/1988;37,0;Masculino;Branca;Mercês;Juiz de Fora;V499;OCUPANTE ACID TRANS NE
+19/09/2026;29/08/1978;48,0;Masculino;Branca;Ouro Fino;Ouro Fino;V99;ACID TRANSP NE
+20/09/2026;09/12/1974;51,0;Masculino;Preta;Frei Inocêncio;Governador Valadares;V093;ACID TRANS NE
+20/09/2026;24/09/1961;64,0;Feminino;Branca;Belo Horizonte;Pará de Minas;V239;MOTOCICLISTA NE ACID TRANS
+20/09/2026;31/07/1947;79,0;Masculino;Branca;Belo Horizonte;Pará de Minas;V239;MOTOCICLISTA NE ACID TRANS
+20/09/2026;07/08/1960;66,0;Feminino;Branca;Araguari;Campos Altos;V486;PASSAGEIRO ACID TRANS
+20/09/2026;09/09/1947;79,0;Masculino;Branca;Nova Serrana;Nova Serrana;V892;ACID TRANS VEIC MOT NE
+20/09/2026;31/05/1988;38,0;Masculino;;Curral de Dentro;Curral de Dentro;V899;ACID VEIC NE
+21/09/2026;16/07/1955;71,0;Masculino;Branca;Sete Lagoas;Curvelo;V435;CONDUTOR ACID TRANS
+21/09/2026;25/06/1964;62,0;Masculino;Branca;Pará de Minas;Divinópolis;V499;OCUPANTE ACID TRANS NE
+21/09/2026;16/11/1999;26,0;Masculino;Branca;São João do Manhuaçu;Manhuaçu;V892;ACID TRANS VEIC MOT NE
+22/09/2026;15/07/1954;72,0;Masculino;Branca;Passa Quatro;Pouso Alto;V445;CONDUTOR ACID TRANS
+23/09/2026;02/10/1981;44,0;Masculino;Parda;Uberaba;Uberaba;V224;CONDUTOR ACID TRANS
+23/09/2026;18/07/1995;31,0;Masculino;Branca;Carmo do Cajuru;Divinópolis;V229;MOTOCICLISTA NE ACID TRANS
+23/09/2026;09/01/1962;64,0;Masculino;Parda;Pará de Minas;Pará de Minas;V284;CONDUTOR ACID TRANS
+24/09/2026;20/12/1995;30,0;Masculino;Branca;Silvianópolis;Pouso Alegre;V299;MOTOCICLISTA ACID TRANS NE
+24/09/2026;27/08/1958;68,0;Masculino;Parda;Carmo de Minas;São Lourenço;V433;OCUPANTE NE ACID N-TRANS
+24/09/2026;01/06/1977;49,0;Feminino;Branca;Contagem;Pará de Minas;V439;OCUPANTE NE ACID TRANS
+24/09/2026;25/08/2000;26,0;Masculino;Parda;Nova Serrana;Oliveira;V499;OCUPANTE ACID TRANS NE
+25/09/2026;09/08/1987;39,0;Masculino;Parda;Contagem;Estiva;V480;CONDUTOR ACID N-TRANS
+26/09/2026;17/02/2001;25,0;Masculino;Parda;Extrema;;V299;MOTOCICLISTA ACID TRANS NE
+27/09/2026;24/05/1985;41,0;Feminino;Branca;Uberaba;Uberaba;V234;CONDUTOR ACID TRANS
+27/09/2026;05/10/1992;33,0;Masculino;Parda;Pequi;Pequi;V234;CONDUTOR ACID TRANS
+27/09/2026;02/08/1983;43,0;Masculino;Preta;Uberaba;Uberaba;V235;PASSAGEIRO ACID TRANS
+27/09/2026;23/03/1974;52,0;Masculino;Parda;Belo Horizonte;Itatiaiuçu;V440;CONDUTOR ACID N-TRANS
+27/09/2026;26/04/1958;68,0;Masculino;Branca;Divinópolis;Cláudio;V499;OCUPANTE ACID TRANS NE
+27/09/2026;10/12/1996;29,0;Feminino;Branca;Divinópolis;Cláudio;V499;OCUPANTE ACID TRANS NE
+28/09/2026;08/12/1973;52,0;Masculino;Branca;Monte Belo;Monte Belo;V299;MOTOCICLISTA ACID TRANS NE
+28/09/2026;17/04/1994;32,0;Masculino;Branca;Guimarânia;Patos de Minas;V299;MOTOCICLISTA ACID TRANS NE
+28/09/2026;08/02/1984;42,0;Masculino;Branca;Pará de Minas;Pará de Minas;V485;CONDUTOR ACID TRANS
+28/09/2026;13/11/1948;77,0;Masculino;Branca;Andradas;Andradas;V576;PASSAGEIRO ACID TRANS
+28/09/2026;29/10/1983;42,0;Feminino;Parda;Coração de Jesus;Montes Claros;V899;ACID VEIC NE
+30/09/2026;26/05/1952;74,0;Feminino;Branca;Arcos;Arcos;V099;ACID TRANSP NE
+30/09/2026;09/12/1973;52,0;Masculino;Parda;Uberlândia;Uberlândia;V499;OCUPANTE ACID TRANS NE
+30/09/2026;04/12/1972;53,0;Masculino;Branca;Rio Paranaíba;Patos de Minas;V499;OCUPANTE ACID TRANS NE
+02/10/2026;01/10/1962;64,0;Masculino;Branca;Manhuaçu;Manhuaçu;V093;ACID TRANS NE
+02/10/2026;01/02/1974;52,0;Masculino;Parda;Sete Lagoas;Campos Altos;V446;PASSAGEIRO ACID TRANS
+03/10/2026;05/10/2001;24,0;Masculino;Parda;Manhuaçu;Manhuaçu;V092;ACID TRANS ENVOLV OUTR VEIC E NE A MOTOR
+03/10/2026;18/03/1963;63,0;Masculino;Parda;São Gonçalo do Pará;São Gonçalo do Pará;V435;CONDUTOR ACID TRANS
+03/10/2026;20/03/1959;67,0;Feminino;Parda;São Gonçalo do Pará;São Gonçalo do Pará;V436;PASSAGEIRO ACID TRANS
+05/10/2026;01/09/1975;51,0;Masculino;Branca;Santo Antônio do Monte;Santo Antônio do Monte;V294;CONDUTOR COLIS OUTR VEIC NE MOT ACID TRANS
